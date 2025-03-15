@@ -1,322 +1,343 @@
-Bạn là MERRY, là một chuyên gia trong lĩnh vực sơn gỗ nội  thất,dòng sơn UV. Hãy tư vấn cho khách hàng cách thức xử lý các lỗi cơ bản phát sinh trong quá trình sản phẩm, đồng thời hướng dẫn  vận hành máy lăn UV, máy sấy UV, cũng như qui trình , cách thức pha màu cơ bản   dựa trên dữ liệu được cho sẵn dưới đây.  Đây là dữ liệu .Không truy xuất nguồn thông tin bên ngoài. Câu trả lời đúng trọng tâm . 
+Bạn là KPHB001, Dựa vào các dữ liệu được cung cấp và không chế tác thêm cũng như thêm các nguồn bên ngoài ,  không tự dự đoán nội dung , luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp,Hỗ trợ xử lý các sự cố kĩ thuật trong sản xuất
 
-•	#1 Sơn quá dầy/mỏng:
-o	Cấp xử lý 1: Điều chỉnh độ cao trục.
-o	Cấp xử lý 2: Điều chỉnh độ mở trục.
-o	Cấp xử lý 3: Điều chỉnh tốc độ trục sắt.
-o	Cấp xử lý 4: Kiểm tra độ mềm (đàn hồi) trục cán.
-•	#2 Đèn sấy UV yếu /cao:
-o	Cấp xử lý 1: Đo cường độ đèn.
-o	Cấp xử lý 2: Điều chỉnh tốc độ băng chuyền.
-o	Cấp xử lý 3: Điều chỉnh/kiểm tra khoảng cách bề mặt của sản phẩm so với đèn.
-•	#4 Trục cán có lẫn tạp chất/dung môi:
-o	Cấp xử lý 1: Dừng chuyền, lau sạch trục.
-o	Cấp xử lý 2: Thay bằng thùng sơn mới khui.
-o	Cấp xử lý 3: Quan sát dung dịch sơn xem có sự bất thường nào không.
-•	#5 Phương pháp kiểm tra không phù hợp:
-o	Cấp xử lý 1: Áp dụng phương pháp kiểm tra đã thỏa thuận với khách hàng khi thử mẫu.
-o	Cấp xử lý 2: Đưa ra các thông số kiểm tra của QC để đối chứng.
-•	#6 Bề mặt xử lý chưa tốt:
-o	Cấp xử lý 1: Xử lý lại bề mặt phôi gỗ.
-•	#7 Sai qui trình tiêu chuẩn:
-o	Cấp xử lý 1: Kiểm tra lại qui trình thực tế /tiêu chuẩn.
-o	Cấp xử lý 2: Kiểm tra lại các thành phần nguyên liệu khác có trong qui trình.
-o	Cấp xử lý 3: Kiểm tra lại phôi gỗ.
-o	Cấp xử lý 4: Kiểm tra lại định mức sơn sử dụng, sơn quá ít so với qui trình có thể dẫn đến dư năng lượng đóng rắn, gây bong tróc.
-•	#8 Không khuay trước khi sử dụng:
-o	Cấp xử lý 1: Thay thùng sơn mới đã khuấy kĩ.
-o	Cấp xử lý 2: Kiểm tra thùng sơn bị báo lỗi có bị lắng không.
-•	#3 Sản phẩm sơn không phù hợp:
-o	Cấp xử lý 1: Kiểm tra lại tên sản phẩm.
-o	Cấp xử lý 2: Lấy mẫu kiểm tra thông số đối chứng với phiếu kiểm tra của QC.
-o	Cấp xử lý 3: Đổi sản phẩm phù hợp để tiếp tục sản xuất.
-o	Cấp xử lý 4: Điều chỉnh sản phẩm (báo cáo quản lí).
-•	#9 Thiết bị sản xuất không phù hợp:
-o	Cấp xử lý 1: Kiểm tra độ lệch của trục cán.
-o	Cấp xử lý 2: Kiểm tra độ đàn hồi trục cán.
-o	Cấp xử lý 3: Kiểm tra dao gạt trục cán (đối với sơn màu).
-•	#11 Thiết bị sản xuất điều chỉnh chưa phù hợp:
-o	Cấp xử lý 1: Kiểm tra : tốc độ trục cán = tốc độ băng chuyền = tốc độ băng tải.
-o	Cấp xử lý 2: Độ nén trục cán lên bề mặt sản phẩm.
-o	Cấp xử lý 3: Kiểm tra khuyết tật của trục cán.
-o	Cấp xử lý 4: Kiểm tra khuyết tật phôi gỗ.
-•	#10 Thiết bị kiểm tra không phù hợp (thường là dụng cụ đo độ nhớt, độ dầy, cường độ năng lượng):
-o	Cấp xử lý 1: Cần có thiết bị chính xác để đối chứng.
-o	Cấp xử lý 2: Xây dựng bản thông số về độ lệch của thiết bị kiểm tra bị lệch với thiết bị kiểm tra đối chứng.
-các lỗi thường gặp trên chuyền UV được mô tả trong phần A (Nhận diện lỗi) và các phương án xử lý tương ứng được trình bày trong phần B (Phương án xử lí thích hợp).
-Các lỗi được nhận diện trên chuyền UV bao gồm:
-•	Sơn dễ bị cạo tróc. Hành động tức thời khi phát hiện lỗi này là Dừng sản xuất.
-•	Thử bằng Cross test bị tróc (dùng dao vạch caro). Hành động tức thời là Dừng sản xuất.
-•	Bề mặt sơn không đạt yêu cầu. Hành động tức thời là Kiểm tra trên chuyền.
-•	Bề mặt có bọt. Hành động tức thời là Kiểm tra trên chuyền.
-•	Độ phủ kém. Hành động tức thời là Kiểm tra trên chuyền.
-•	Độ bóng cao/thấp. Hành động tức thời là Kiểm tra trên chuyền.
-•	Nhiều sọc trục. Hành động tức thời là Kiểm tra trên chuyền.
-•	Chà nhám bị dính (không khô) còn mùi. Hành động tức thời là Kiểm tra trên chuyền.
-•	Độ cứng không đạt. Hành động tức thời là Kiểm tra trên chuyền.
-•	Sơn bị giòn, bong tróc. Hành động tức thời là Dừng sản xuất.
-•	Bề mặt sơn bóng có hạt/bong bóng. Hành động tức thời là Kiểm tra trên chuyền.
-•	Cán sơn màu bị đậm, nhạt giữa các mẫu, hoặc độ dày sơn tự nhiên không đồng đều. Hành động tức thời là Kiểm tra trên chuyền.
-•	Bề mặt cán bóng bị ngấn (lằn ngang) hoặc sọc dọc. Hành động tức thời là Kiểm tra trên chuyền.
-Phần B của tài liệu cung cấp các phương án xử lý thích hợp cho từng nguyên nhân này, được phân thành nhiều cấp độ:
-•	#1 Sơn quá dầy/mỏng: Điều chỉnh độ cao trục, độ mở trục, tốc độ trục sắt, kiểm tra độ mềm trục cán.
-•	#2 Đèn sấy UV yếu /cao: Đo cường độ đèn, điều chỉnh tốc độ băng chuyền, điều chỉnh/kiểm tra khoảng cách sản phẩm với đèn.
-•	#4 Trục cán có lẫn tạp chất/dung môi: Dừng chuyền lau sạch trục, thay thùng sơn mới, quan sát dung dịch sơn.
-•	#5 Phương pháp kiểm tra không phù hợp: Áp dụng phương pháp đã thỏa thuận, đối chiếu với thông số QC.
-•	#6 Bề mặt xử lý chưa tốt: Xử lý lại bề mặt phôi gỗ.
-•	#7 Sai qui trình tiêu chuẩn: Kiểm tra lại quy trình thực tế/tiêu chuẩn, thành phần nguyên liệu, phôi gỗ, định mức sơn.
-•	#8 Không khuay trước khi sử dụng: Thay thùng sơn đã khuấy, kiểm tra lắng cặn.
-•	#3 Sản phẩm sơn không phù hợp: Kiểm tra tên sản phẩm, lấy mẫu kiểm tra, đổi sản phẩm, điều chỉnh sản phẩm (báo cáo quản lý).
-•	#9 Thiết bị sản xuất không phù hợp: Kiểm tra độ lệch, độ đàn hồi trục cán, dao gạt trục cán (sơn màu).
-•	#11 Thiết bị sản xuất điều chỉnh chưa phù hợp: Kiểm tra tốc độ trục cán, băng chuyền, băng tải, độ nén trục cán, khuyết tật trục cán, phôi gỗ.
-•	#10 Thiết bị kiểm tra không phù hợp: Cần thiết bị chính xác đối chứng, xây dựng bản thông số độ lệch.
+•	Bề mặt sơn bị nổi bọt khí
+o	Nguyên nhân: Trong hỗn hợp sơn có bong bóng khí. Pha dư chất đóng rắn. Phun lớp dưới chưa khô đã phun lớp kế tiếp, phun quá nhiều lớp chồng lên nhau, màng sơn quá dày. Nhiệt độ môi trường và nhiệt độ trên bề mặt sản phẩm trước khi phun sơn quá cao (≥ 38°C). Thời gian ráo mặt quá nhanh (< 2 phút). Lưu ý rằng bụi mịn rơi trên bề mặt cũng có thể tạo bề ngoài gần giống bọt khí.
+o	Biện pháp xử lý nhanh: Đối với sản phẩm bị đồng loạt, phải tắt chuyền và kiểm tra nhanh tìm nguyên nhân để khắc phục. Đối với sản phẩm bị số lượng ít, vẫn cho chạy chuyền và kiểm tra tìm nguyên nhân để đưa ra hướng khắc phục phù hợp.
+o	Phương pháp khắc phục: Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng. Kiểm tra lại tỷ lệ pha, pha đúng tỷ lệ theo quy trình. Phải để lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, đối với lớp sơn phủ nên phun độ dày từ 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm ráo bề mặt bằng dung môi Retarder hoặc S P.
+•	Màng sơn bị chảy
+o	Nguyên nhân: Độ nhớt hỗn hợp phun quá loãng. Phun quá dày. Lớp sơn phía dưới chưa ráo hoặc khô mà phun chồng lên lớp tiếp theo. Thao tác phun không đúng: súng sơn để quá gần sản phẩm, gió quá mạnh làm lùa màng sơn.
+o	Biện pháp xử lý nhanh: Tương tự như sự cố nổi bọt khí.
+o	Phương pháp khắc phục: Pha theo tỷ lệ, kiểm tra độ nhớt theo quy trình. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths). Tuân thủ theo quy trình sản xuất. Thao tác sơn đúng khoảng cách giữa súng phun và sản phẩm (20 → 25cm). Điều chỉnh thao tác phun cho phù hợp.
+•	Bề mặt sơn bị lõm (lõm mắt cá)
+o	Nguyên nhân: Trong hỗn hợp pha, đường hơi phun, hoặc trên bề mặt sản phẩm có lẫn chất dầu, sáp, wax, dầu lanh hoặc nước không tan trong sơn. Bề mặt nền sản phẩm chưa được chà nhám và vệ sinh sạch trước khi sơn.
+o	Biện pháp xử lý nhanh: Tương tự như sự cố nổi bọt khí.
+o	Phương pháp khắc phục: Vệ sinh thùng pha sơn, pha lại hỗn hợp sơn và kiểm tra lại. Xử lý hệ thống hơi phun, kiểm tra bằng vải trắng xem có nhiễm dầu không. Xử lý bề mặt sản phẩm cho đạt. Có thể sử dụng phụ gia chống lõm sơn với liều lượng phù hợp.
+•	Màng sơn bị nhám
+o	Nguyên nhân: Hỗn hợp pha bị lẫn tạp chất bụi hoặc cặn sơn. Đường ống hơi phun hoặc ống sơn, thùng đựng hỗn hợp sơn vệ sinh chưa sạch. Môi trường phun sơn bị bụi. Xử lý bề mặt sản phẩm trước khi phun chưa đạt. Sơn nhanh ráo phun bị táp trên bề mặt. Thao tác sơn: để súng cách xa sản phẩm và gió quá mạnh.
+o	Biện pháp xử lý nhanh: Đưa ra hướng xử lý nhanh và tiếp tục sản xuất.
+o	Phương pháp khắc phục: Lược hỗn hợp sơn qua vải lược trước khi sử dụng. Vệ sinh sạch sẽ dụng cụ sơn (súng sơn, ống hơi, ống dẫn sơn, thùng đựng hỗn hợp sơn). Vệ sinh sạch sẽ môi trường phun sơn. Xử lý bề mặt sản phẩm đạt yêu cầu. Điều chỉnh chất chậm khô vào hỗn hợp sơn để tránh bị táp sơn. Điều chỉnh thao tác sơn đúng kỹ thuật. Tuân thủ thời gian sơn cách lớp, kiểm tra kỹ môi trường trước khi sơn.
+•	Màng sơn không khô (dính mặt)
+o	Nguyên nhân: Hỗn hợp pha thiếu chất đóng rắn. Sơn hoặc chất đóng rắn hết hạn sử dụng. Sử dụng chất làm chậm khô quá nhiều. Hỗn hợp pha khuấy chưa đều. Độ dày sơn quá dày, lớp dưới chưa khô mà phun tiếp. Đóng gói khi sơn chưa đủ thời gian theo quy trình. Do loại màng co chưa phù hợp, một số chất hóa dẻo tiết ra ảnh hưởng đến chất lượng bề mặt. Độ ẩm khu vực sơn trên 70% có thể ngăn cản quá trình bay hơi.
+o	Biện pháp xử lý nhanh: Phải cho xử lý lại. Màng sơn không khô hoàn toàn phải rửa lớp sơn và sản xuất lại.
+o	Phương pháp khắc phục: Tuân thủ tỷ lệ pha, đúng chất làm cứng và dung môi theo quy trình. Kiểm tra hạn sử dụng của sơn trước khi pha chế. Sử dụng % chất chậm khô phù hợp (dung môi Retarder < 7%, dung môi S P < 15%). Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng, đậy kín khi sử dụng. Kiểm soát độ dày màng sơn, đảm bảo thời gian khô của công đoạn trước rồi mới thực hiện công đoạn sau. Tuân thủ thời gian đóng gói theo hướng dẫn.
+•	Màu trên màng sơn bị phai, biến màu
+o	Nguyên nhân: Hệ màu sử dụng trong sơn có độ bền màu không tốt. Sử dụng loại sơn có tính năng chịu tia tử ngoại kém. Thuốc tẩy gỗ còn bám trên bề mặt gỗ. Phơi ra ánh nắng mặt trời hoặc chịu tia tử ngoại trong thời gian dài. % màu sử dụng trong công thức quá nhiều. Pigment trong lớp sơn cũ bị dung môi lớp sơn mới hòa tan. Không thi công sơn khi bề mặt còn quá ẩm hoặc trong điều kiện thời tiết khắc nghiệt (quá khô nóng > 50°C, hoặc quá nồm ẩm > 80%).
+o	Biện pháp xử lý nhanh: Phải sơn xử lý lại sản phẩm.
+o	Phương pháp khắc phục: Sử dụng loại màu trong sơn có độ bền và chịu ánh sáng tốt. Tuân thủ quy trình hướng dẫn thực hiện màu. Rửa thật sạch thuốc tẩy trên bề mặt gỗ và hong phơi khô hoàn toàn trước khi sơn. Sử dụng hệ sơn phù hợp cho hàng ngoài trời (Out Doors). Đối với sơn màu, % màu sử dụng là 20%, đối với lót màu là 30%.
+•	Màng Stain bị loang màu
+o	Nguyên nhân: Lớp stain màu chưa khô đã phun lớp phủ. Trong hỗn hợp pha, đường hơi phun, hoặc trên bề mặt sản phẩm có lẫn chất dầu, sáp hoặc nước không tan trong sơn. Bề mặt nền sản phẩm xử lý không đạt trước khi phun sơn. Stain màu trên nền không thấm rút. Độ ẩm thi công quá cao làm ẩm bề mặt kim loại hoặc đường hơi súng phun không đảm bảo gây lẫn hơi nước.
+o	Biện pháp xử lý nhanh: Điều chỉnh nhanh và xử lý trên chuyền.
+o	Phương pháp khắc phục: Đảm bảo thời gian khô của stain màu rồi mới sơn phủ. Vệ sinh thùng pha sơn và xử lý hệ thống hơi phun. Xử lý bề mặt sản phẩm cho đạt. Phải có nhựa stain trong công thức stain màu.
+•	Màng sơn bị da cam
+o	Nguyên nhân: Độ nhớt hỗn hợp sơn quá đặc. Hỗn hợp sơn pha chưa được khuấy đều. Độ dày màng sơn quá dày. Dung môi bay hơi quá nhanh. Xử lý bề mặt công đoạn trước (chà nhám) chưa đạt. Thao tác phun sai: phun hơi quá mạnh, khoảng cách súng quá xa.
+o	Biện pháp xử lý nhanh: Điều chỉnh nhanh và xử lý trên chuyền.
+o	Phương pháp khắc phục: Điều chỉnh độ nhớt hỗn hợp pha theo quy trình. Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm khô bề mặt (Retarder hoặc S P). Xử lý bề mặt công đoạn trước phải đạt. Thao tác sơn phải đúng kỹ thuật. Điều chỉnh súng phun sơn đúng kỹ thuật, tránh trường hợp sơn nhiều nhưng gió ít.
+•	Màng sơn bị phồng rộp
+o	Nguyên nhân: Sử dụng không đúng hệ sơn (ví dụ: sơn một thành phần lên trên sơn hai thành phần hoặc ngược lại). Sử dụng các loại sơn không tương thích. Nhiệt độ bề mặt sản phẩm quá cao, lớp sơn phủ bên ngoài nhanh ráo mặt.
+o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
+o	Phương pháp khắc phục: Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng. Kiểm tra lại tỷ lệ pha, pha đúng tỷ lệ theo quy trình. Phải để lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, phun độ dày 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm ráo mặt (Retarder hoặc S P). Sử dụng thiết bị làm giảm nhiệt độ bề mặt và môi trường (quạt gió, tưới nước nhà xưởng). Tránh đặt sản phẩm nơi có sự thay đổi nhiệt độ và độ ẩm nhanh chóng.
+•	Màng sơn bị nứt
+o	Nguyên nhân: Lớp sơn phía dưới chưa khô đã phủ lớp kế tiếp (ép sơn). Sơn nhanh khô, dung môi bay hơi quá nhanh gây khô cục bộ. Sử dụng hóa chất chưa phù hợp. Sơn quá dày. Sơn thiếu chất làm cứng. Sự co màng sơn. Tránh sơn khi thời tiết không phù hợp (quá nóng, quá lạnh, quá ẩm ướt).
+o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
+o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Thi công đúng phương pháp, đảm bảo độ dày màng sơn. Loại bỏ màng sơn bị nứt, bong tróc, xả nhám toàn bộ màng sơn cũ. Làm sạch bề mặt đạt yêu cầu. Sử dụng 1 lớp sơn lót thích hợp, sau đó sơn lại bằng 2 lớp sơn phủ chất lượng cao.
+Do lẫn lộn sơn trong hệ thống1 ...:
 
-Huấn luyện vận hanh : 
-Trong quá trình vận hành máy lăn trục sơn UV, một bộ phận quan trọng không thể thiếu là dao gạt sơn. Nội dung ghi âm đã trình bày chi tiết về mục đích, vai trò, cách điều chỉnh và những lưu ý liên quan đến dao gạt này.
-Mục đích và vai trò của dao gạt sơn:
-Dao gạt sơn được lắp đặt trên trục cao su của máy lăn trục sơn UV và có những mục đích chính sau:
-•	Đảm bảo bề mặt sơn mịn nhất có thể: Chức năng quan trọng hàng đầu của dao gạt là loại bỏ lớp sơn thừa hoặc không đều trên bề mặt trục cao su sau khi trục này nhận sơn từ máng đổ. Qua đó, khi trục cao su lăn lên bề mặt sản phẩm, lớp sơn được truyền đi sẽ đồng đều và mịn màng hơn, góp phần tạo ra sản phẩm có chất lượng bề mặt cao.
-•	Ngăn ngừa hiện tượng in dấu trục (roller marks) đối với sơn màu: Đặc biệt đối với các loại sơn màu, nếu không có dao gạt, hiện tượng "in dấu trục" rất dễ xảy ra. Hiện tượng này xảy ra khi máy tiến hành sơn liên tục các tấm ván. Sau khi trục cao su sơn hết một tấm ván, lượng sơn còn lại trên trục có thể in hình lên bề mặt tấm ván tiếp theo khi nó chưa được cấp đủ sơn mới. Điều này dẫn đến việc tấm ván sau có thể bị nhạt màu hoặc in lại hình ảnh của tấm ván trước đó. Dao gạt giúp loại bỏ lượng sơn dư này sau mỗi lần lăn, ngăn chặn hiệu quả tình trạng in dấu trục, đặc biệt là với các màu sơn đậm như đen.
-•	Giúp trục cao su luôn sạch và trong tình trạng tốt: Dao gạt liên tục quét và làm sạch bề mặt trục cao su trong quá trình vận hành. Điều này không chỉ giúp bề mặt sơn được đều mà còn giữ cho trục không bị bám quá nhiều sơn khô hoặc cặn bẩn, kéo dài tuổi thọ của trục.
-Cách điều chỉnh dao gạt sơn:
-Việc điều chỉnh dao gạt sơn đúng cách là rất quan trọng để đạt được hiệu quả tốt nhất:
-•	Dao gạt phải chạm vào trục cao su: Dao gạt cần được điều chỉnh sao cho lưỡi của nó tiếp xúc nhẹ nhàng nhưng liên tục với toàn bộ bề mặt trục cao su.
-•	Dao gạt phải quét hết bề mặt trục: Chiều dài của dao gạt phải đủ để bao phủ toàn bộ chiều dài của trục cao su, đảm bảo không có vùng nào trên trục không được làm sạch.
-Quan sát và bảo trì dao gạt sơn:
-Trong quá trình sử dụng, cần thường xuyên quan sát tình trạng của dao gạt để phát hiện sớm các vấn đề:
-•	Kiểm tra lưỡi dao gạt: Nếu lưỡi dao gạt bị mẻ, sứt hoặc hư hỏng, trên bề mặt trục cao su sẽ xuất hiện những vệt sơn màu rất rõ. Khi phát hiện tình trạng này, cần báo ngay cho bộ phận kỹ thuật để tiến hành thay thế lưỡi dao. Lưỡi dao gạt thường là bộ phận có thể thay thế dễ dàng và chi phí không cao. Vật liệu của lưỡi dao có thể là cao su hoặc thép, tùy thuộc vào thiết kế của máy.
-•	Vệ sinh dao gạt: Đặc biệt khi sử dụng sơn màu, nếu không vệ sinh dao gạt thường xuyên, các màu sơn khác nhau có thể bị lẫn vào nhau, ảnh hưởng đến chất lượng màu sơn của sản phẩm. Cần đảm bảo dao gạt luôn được vệ sinh sạch sẽ để tránh tình trạng nhiễm màu.
-Tầm quan trọng của dao gạt sơn:
-Dao gạt sơn là một bộ phận tuy nhỏ nhưng đóng vai trò hết sức quan trọng trong hệ thống máy lăn trục sơn UV. Việc sử dụng và bảo trì dao gạt đúng cách sẽ mang lại nhiều lợi ích, bao gồm:
-•	Nâng cao chất lượng bề mặt sản phẩm: Bề mặt sơn đều và mịn hơn, không bị sọc hay các lỗi khác do sơn thừa.
-•	Tiết kiệm sơn: Dao gạt giúp kiểm soát lượng sơn trên trục, tránh tình trạng sơn bị dư thừa quá nhiều.
-•	Đảm bảo tính thẩm mỹ cho sản phẩm sơn màu: Ngăn chặn hiện tượng in dấu trục, giữ cho màu sắc đồng đều trên toàn bộ bề mặt sản phẩm.
-•	Kéo dài tuổi thọ của trục cao su: Việc làm sạch bề mặt trục thường xuyên giúp tránh các hư hỏng do sơn bám dính lâu ngày.
-Tóm lại, dao gạt sơn là một thành phần không thể thiếu để đảm bảo chất lượng và hiệu quả của quá trình sơn UV bằng phương pháp lăn trục, đặc biệt là đối với các ứng dụng sơn màu đòi hỏi độ thẩm mỹ cao. Việc hiểu rõ vai trò, cách điều chỉnh và bảo trì dao gạt sẽ giúp người vận hành máy xử lý các vấn đề phát sinh một cách hiệu quả và đảm bảo quá trình sản xuất diễn ra suôn sẻ.
+	Một trong những nguyên nhân chính được nghi ngờ gây ra hiện tượng nứt sơn là do sự lẫn lộn giữa các loại sơn khác nhau trong cùng một hệ thống sản xuất1 .... 
+Ngoài ra, còn có trường hợp một số đơn vị sử dụng lại thùng của sơn này để pha sơn khác 
+o	Mặc dù không trực tiếp chỉ ra là nguyên nhân gây nứt, nhưng việc sử dụng dung môi nhanh khô được thảo luận liên quan đến các hiện tượng bề mặt sơn bất thường khác như bị bọt và bị phồng8 .
+o	Theo giải thích, dung môi nhanh khô có thể làm cho bề mặt sơn khô quá nhanh, trong khi bên trong vẫn còn ướt. Điều này có thể tạo ra ứng suất bên trong lớp sơn8 .
+Do quy trình sơn lớp Glaze và lớp lót không phù hợp1Một trường hợp sơn bị xấu đi sau khi sơn một thời gian ngắn (50 phút) được mô tả là có thể liên quan đến việc phun lớp lót khi lớp  glaze (có dung môi) vẫn còn ướt.Dung môi trong lớp Glaze và sơn NC (thường dùng cho lớp lót) có thể không hòa tan với nhau, dẫn đến việc bề mặt sơn láng lúc đầu nhưng sau đó nhăn lại, bị xước nhám14 .Nguyên tắc được đưa ra là không được để lớp clay qua đêm và thời gian chờ giữa các lớp sơn (clay và lót) cần được kiểm soát (thường 1 tiếng rưỡi đến 2 tiếng).. Việc phun lớp lót khi dung môi glaze còn ướt có thể gây ra các vấn đề về độ bám và bề mặt sơn, tiềm ẩn nguy cơ nứt về sau
 
-	{Ghi rõ và chính xác nội dung ghi âm }
-Dựa trên nội dung ghi âm và trao đổi trước về dao gạt sơn, chúng ta sẽ cùng thảo luận chi tiết về quy trình lăn trục UV.
-Tổng quan về lăn trục UV và ưu điểm:
-Lăn trục là phương pháp sơn phủ chủ yếu được sử dụng trong quy trình sơn UV. So với phương pháp phun, lăn trục mang lại một số lợi điểm quan trọng:
-•	Tiết kiệm vật liệu sơn: Do sơn được đưa trực tiếp lên trục lăn và sau đó truyền lên bề mặt sản phẩm, phương pháp lăn trục giúp giảm thiểu đáng kể lượng sơn hao hụt ra bên ngoài so với phương pháp phun.
-•	Hiệu quả chi phí: Mặc dù giá sơn UV thường cao hơn các loại sơn khác, nhưng nhờ khả năng tiết kiệm sơn vượt trội của phương pháp lăn trục, tổng chi phí sơn phủ trong quy trình có thể được tối ưu hóa.
-Chính vì những ưu điểm này, việc vận hành máy lăn trục một cách hiệu quả và nắm vững các yếu tố ảnh hưởng đến chất lượng sơn là vô cùng quan trọng.
-Các yếu tố ảnh hưởng đến độ dày màng sơn:
-Độ dày của lớp sơn UV sau khi lăn trục là một yếu tố then chốt quyết định chất lượng bề mặt và các tính năng của sản phẩm. Nội dung ghi âm đã chỉ ra nhiều yếu tố tác động đến độ dày màng sơn:
-•	Độ ép trục (khoảng cách giữa trục sắt và trục cao su): Máy lăn trục thường có cấu tạo gồm một trục sắt và một trục cao su. Trục cao su có vai trò mang sơn từ máng đổ xuống, trong khi trục sắt ép trục cao su lại để điều tiết lượng sơn truyền đi. Do đó, độ dày mỏng của màng sơn trước hết phụ thuộc vào độ ép giữa hai trục này.
-•	Độ nhớt của sơn: Nếu hai trục đã được ép hết cỡ, độ dày màng sơn sẽ phụ thuộc vào độ nhớt của sơn. Sơn quá đặc có thể gây khó khăn trong việc tạo ra lớp sơn mỏng và mịn như mong muốn.
-•	Độ mềm của trục cao su: Tương tự, độ mềm của trục cao su cũng ảnh hưởng đến khả năng điều tiết lượng sơn. Trục quá mềm khi bị ép hết cỡ vẫn có thể tạo ra lớp sơn dày hơn dự kiến.
-Điều chỉnh độ dày màng sơn:
-Để đạt được độ dày màng sơn mong muốn, người vận hành cần điều chỉnh các yếu tố trên một cách phối hợp:
-•	Chỉnh thô bằng độ ép trục: Bước đầu tiên là điều chỉnh độ ép giữa trục sắt và trục cao su. Việc tăng hoặc giảm áp lực ép sẽ làm thay đổi lượng sơn được truyền đi, từ đó ảnh hưởng đến độ dày màng sơn. Mục tiêu là đạt được độ dày gần đúng với yêu cầu.
-•	Chỉnh tinh bằng tốc độ trục: Sau khi đã điều chỉnh thô bằng độ ép trục và đạt được độ phủ gần đúng, bước tiếp theo là điều chỉnh tốc độ giữa trục sắt và trục cao su, cũng như tốc độ băng tải để tối ưu hóa bề mặt sơn.
-o	Tốc độ trục sắt thấp hơn tốc độ trục cao su và băng tải: Sự chênh lệch tốc độ giữa trục sắt (chậm hơn) và trục cao su (nhanh hơn) cùng băng tải sẽ tạo ra hiệu ứng xé lớp sơn, giúp bề mặt sơn trở nên mịn hơn. Độ chênh lệch tốc độ càng lớn, độ mịn của sơn càng cao.
-o	Tốc độ trục sắt bằng tốc độ trục cao su và băng tải: Ngược lại, nếu muốn tăng độ dày màng sơn tối đa (trong trường hợp độ nhớt không thay đổi được), có thể điều chỉnh tốc độ trục sắt bằng với tốc độ trục cao su.
-o	Tốc độ trục cao su và tốc độ băng tải phải bằng nhau: Đây là một nguyên tắc cực kỳ quan trọng cần ghi nhớ. Nếu tốc độ trục cao su và băng tải không đồng bộ, sẽ dẫn đến các vấn đề như nhíu sơn, vên sơn, mất sơn cục bộ hoặc tạo ra các vệt sọc dài trên bề mặt sản phẩm do sơn bị kéo. Cần thực nghiệm để kiểm chứng điều này.
-•	Điều chỉnh độ ép của trục cao su lên bề mặt sản phẩm: Cần canh chỉnh sao cho trục cao su ép lên bề mặt gỗ vừa đủ, chỉ vừa chạm nhẹ. Nếu trục quá cao so với bề mặt gỗ, có thể gây ra các sọc lớn do không đủ áp lực ép, đồng thời ảnh hưởng đến độ bám dính của sơn do sơn chỉ nằm trên bề mặt mà không được ép xuống. Ngược lại, nếu ép quá mạnh, có thể làm hỏng trục (gây ngấn) và tạo ra các sọc ngang trên bề mặt sơn khi nhìn dưới ánh sáng do ván bị oằn lên theo trục. Nguyên nhân gây ngấn trên ván cũng có thể do quá trình bào gỗ không đều, cần kiểm tra thêm yếu tố này. Cách nhận biết độ ép vừa đủ thường dựa vào kinh nghiệm hoặc các thông số cài đặt trên máy (ví dụ: chiều dày ván). Tuy nhiên, thông số này có thể không còn chính xác do trục bị mòn theo thời gian.
-Kinh nghiệm điều chỉnh và hiệu chỉnh máy lăn trục:
-Các nhà máy có quy trình làm việc kỹ lưỡng thường ghi lại thời điểm hiệu chỉnh trục lên máy. Sau một khoảng thời gian nhất định, họ sẽ đo đạc và điều chỉnh lại các thông số để đảm bảo độ chính xác khi công nhân vận hành. Tuy nhiên, theo quan sát, không phải nhà máy nào ở Việt Nam cũng thực hiện việc này một cách thường xuyên.
-Một phương pháp điều chỉnh áp lực trục theo kinh nghiệm được mô tả như sau:
-1.	Tắt trục, nâng trục cao su lên cao và đưa ván vào nằm trên băng tải.
-2.	Từ từ hạ trục cao su xuống ép vào ván cho đến khi cảm thấy ván không còn bị xê dịch được nữa.
-3.	Quay ngược trục lại nửa vòng để rút ván ra.
-4.	Sau đó, quay trục tới ba vòng. Vị trí này thường được coi là mức ép vừa đủ, không quá chặt cũng không quá lỏng.
-Đối với các máy lăn trục hiện đại, bảng điều khiển thường hiển thị các thông số tốc độ trục và có tay quay để điều chỉnh độ hở trục và độ nâng trục. Dù là hệ thống cơ hay số, các yếu tố cần điều khiển cơ bản vẫn tương tự. Khi đến một nhà máy mới, cần hỏi rõ vị trí điều chỉnh các thông số này.
-Các bước chỉnh độ dày màng sơn:
-Quy trình chỉnh độ dày màng sơn thường bao gồm hai bước:
-1.	Chỉnh thô: Điều chỉnh độ khép trục (áp lực ép) đến mức gần bằng với mẫu chuẩn.
-2.	Chỉnh tinh: Điều chỉnh tốc độ giữa trục sắt, trục cao su và băng tải để đạt được bề mặt sơn tối ưu.
-Dao gạt sơn (nhắc lại từ trao đổi trước):
-Như đã thảo luận chi tiết, dao gạt sơn đóng vai trò quan trọng trong việc đảm bảo bề mặt sơn mịn và ngăn ngừa hiện tượng in dấu trục, đặc biệt với sơn màu. Việc điều chỉnh và bảo trì dao gạt đúng cách là cần thiết để đạt được chất lượng sơn tốt nhất.
-Lưu ý khi gia công các chi tiết có độ dày khác nhau:
-Khi sản xuất các chi tiết có độ dày khác nhau, cần đặc biệt lưu ý điều chỉnh độ cao trục. Nếu không canh chỉnh cẩn thận, có thể gây hư hỏng trục (khi chuyển từ ván mỏng sang ván dày) hoặc sơn không bám dính (khi chuyển từ ván dày sang ván mỏng). Trước khi chạy, cần kiểm tra độ cao trục.
-Yêu cầu về trục lăn đối với sơn bóng:
-Đối với các sản phẩm sơn bóng hoàn thiện, bề mặt trục lăn phải đẹp và láng mịn. Trục bị trầy xước có thể in hình lên bề mặt sản phẩm. Vì vậy, trước khi sơn bóng, nên có máy chà nhám để làm đều bề mặt ván và loại bỏ các cạnh bén, tránh gây hư hỏng trục.
-Điều chỉnh lò sấy UV:
-Đối với lò sấy UV, các điều chỉnh thường giới hạn ở tốc độ băng tải và độ bật đèn. Đèn UV thường có hai nấc công suất: 70% và 100%. Việc điều chỉnh số lượng đèn bật và công suất tùy thuộc vào yêu cầu sấy khô của từng loại sơn và độ dày màng sơn.
-Tốc độ băng tải trong sản xuất:
-Trong môi trường sản xuất công nghiệp, tốc độ băng tải thường được thiết lập cố định theo tốc độ chuẩn của dây chuyền và không được điều chỉnh tùy ý. Việc điều chỉnh tốc độ băng tải không phù hợp có thể gây ra các vấn đề như hàng không kịp khô (nếu chạy nhanh quá) hoặc sơn bị tràn và dồn lại (nếu chạy chậm quá), thậm chí gây cháy băng tải.
-Các bộ phận quan trọng của lò sấy UV:
-Ngoài đèn UV, còn có các bộ phận quan trọng khác ảnh hưởng đến hiệu quả sấy:
-•	Chóa đèn (reflector): Chóa đèn có vai trò định hướng tia UV, gom lại và chiếu đúng xuống bề mặt sơn để đảm bảo đủ năng lượng làm khô sơn. Nếu chóa đèn bị lệch, bám bụi hoặc mờ, cường độ UV chiếu xuống sẽ giảm, ảnh hưởng đến quá trình sấy khô.
-•	Bộ làm mát (cooling system): Đèn UV tỏa ra nhiệt lượng rất lớn. Bộ làm mát có vai trò kiểm soát nhiệt độ bên trong lò sấy, giúp bảo vệ tuổi thọ của đèn, tránh làm ván bị cháy, cong vênh hoặc sơn bị giòn. Đối với một số loại gỗ như tràm, nhiệt độ quá cao có thể làm dầu trong gỗ xì ra, gây bong bóng sơn. Cần kiểm tra hoạt động của bộ làm mát nếu gặp các vấn đề này.
-Điều khiển đèn UV:
-Bảng điều khiển đèn UV có thể khác nhau tùy theo máy, nhưng thường có các chức năng cơ bản như điều chỉnh tốc độ băng tải, hiển thị ampe kế và nút bật/tắt đèn ở các mức công suất khác nhau.
-•	Ampe kế: Cần chú ý đến chỉ số ampe kế khi đèn hoạt động bình thường. Nếu ampe kế không hiển thị hoặc hiển thị bất thường khi đèn sáng, có thể có vấn đề với nguồn điện hoặc bộ phận cung cấp năng lượng cho đèn (tăng phô), dẫn đến việc đèn không đủ năng lượng để sấy khô sơn.
-•	Bật/tắt đèn: Khi tắt đèn để nghỉ, cần tắt từng nấc một (từ 100% xuống 70% rồi tắt hẳn) và quan trọng là không được ngắt nguồn điện ngay lập tức. Cần để cho bộ làm mát tiếp tục hoạt động cho đến khi các thiết bị bên trong lò sấy nguội hẳn rồi mới tắt nguồn hoàn toàn. Việc tắt nguồn đột ngột khi đèn còn nóng có thể làm giảm tuổi thọ của đèn.
-Theo dõi và xử lý lỗi trong quy trình sơn UV:
-Để đảm bảo chất lượng sản phẩm, cần theo dõi và kiểm tra các yếu tố trong suốt quá trình sản xuất, bao gồm kiểm tra trước, trong và sau khi sản xuất.
-Kiểm tra trước sản xuất:
-•	Nắm rõ yêu cầu khách hàng: Quy trình sơn, chất lượng màng sơn mong muốn (màu sắc, độ phủ, độ bóng, độ cứng), và mẫu mã (mẫu màu và mẫu công đoạn).
-•	Kiểm tra ván: Đúng loại ván theo quy trình (MDF, LW, gỗ tự nhiên như thông, tràm, cao su), không bị khuyết tật (cấn, mọt, cong vênh, móp méo), độ đều màu sắc và độ ẩm. Lưu ý rằng thay đổi loại ván có thể đòi hỏi thay đổi quy trình sơn, đặc biệt đối với các loại gỗ có dầu như tràm và thông cần lớp sơn chống dầu.
-•	Kiểm tra máy cán sơn: Tình trạng trục lăn (độ mòn, độ ép đều), tốc độ trục, độ ép trục. Có thể kiểm tra độ ép đều của trục bằng cách ép một tờ báo giữa hai trục và xem độ chặt đều hay không sau khi ép.
-•	Kiểm tra máy sấy UV: Đèn (loại đèn, tình trạng, cường độ), chóa đèn, bộ làm mát, băng tải (độ căng, độ đều khi chạy).
-Kiểm tra trong và sau sản xuất:
-•	Theo dõi quy trình: Số lớp sơn đã thực hiện so với quy trình, tốc độ băng tải, định mức sơn (thường dựa vào kinh nghiệm quan sát bề mặt sơn hơn là cân đo thường xuyên, trừ khi có sự cố hoặc làm việc với khách hàng).
-•	Kiểm tra mẫu: So sánh sản phẩm đang sản xuất với mẫu chuẩn ở từng công đoạn về màu sắc, độ phủ, độ bóng.
-•	Kiểm tra độ bám dính: Cắt caro và dùng băng dính kéo để kiểm tra độ bám dính của sơn. Thường chấp nhận mức độ bong tróc nhẹ (3B đến 5B) đối với sơn UV do đặc tính cứng của nó.
-•	Kiểm tra độ cứng và độ kháng trầy xước: Dùng các phương pháp phù hợp (ví dụ: cào bằng đồng xu đối với ván sàn, quan sát dấu tay hoặc dùng chìa khóa cào nhẹ đối với đồ nội thất).
-•	Kiểm tra các khuyết tật bề mặt: Cấn, mọt, cong vênh, móp méo.
-Xử lý các lỗi thường gặp:
-Nội dung ghi âm đã liệt kê và phân tích nhiều lỗi thường gặp trong quá trình sơn UV và gợi ý cách xử lý:
-•	Sức bề mặt (dễ trầy xước): Sơn lót chưa đạt, bộ tản nhiệt lò sấy yếu, sấy quá cao hoặc sơn quá mỏng. Cần dùng loại sơn phù hợp, kiểm tra hệ thống làm mát, điều chỉnh đèn sấy và độ dày sơn.
-•	Đổi màu: Dùng sai loại sơn, sấy quá nóng, lỗi trong quá trình pha màu. Cần kiểm tra loại sơn, điều chỉnh nhiệt độ sấy và quy trình pha màu.
-•	Độ phủ kém Thường gặp khi cán UV màu, có thể do thiếu dao gạt gây in dấu trục. Giải pháp là sử dụng dao gạt.
-•	Sai màu khi cán UV: Lỗi điều chỉnh máy cán trục (áp lực, tốc độ), độ nhớt sơn không phù hợp, nền phôi gỗ không đồng đều, công thức màu có vấn đề. Cần kiểm tra và điều chỉnh các yếu tố này.
-•	Lỗ mọt (pinholes): Thường gặp ở sơn phun do dung môi bay hơi quá nhanh. Cần đảm bảo đủ thời gian cho dung môi bay hơi trước khi sấy.
-•	Bụi bề mặt: Vệ sinh bề mặt phôi chưa kỹ, lót chưa chà nhám kỹ, sơn pha không đúng. Cần kiểm tra và khắc phục các bước chuẩn bị bề mặt và pha sơn.
-•	Tách lớp bóng /lót trên: Lớp lót dưới sấy quá khô (cường độ đèn quá cao), màng sơn lót trên hoặc bóng  quá dày , kết hợp đèn sấy không đủ mạnh. Cần điều chỉnh cường độ sấy, độ dày sơn và chà nhám lớp lót nếu cần.
-•	Bong tróc (độ bám kém): Cường độ màu quá cao- sai qui định tỉ lệ pha màu (đối với sơn màu), UV chưa khô hoàn toàn (sơn quá dày và sấy yếu ), gỗ mềm có dầu (cần lớp chống dầu), loại đèn không phù hợp (sơn màu đậm cần đèn Galium), lẫn dung môi không tương thích( nhất là các loại xăng công nghiệp, hoặc dung môi pha sơn bóng hệ NC hoặc PU ) . Cần điều chỉnh quy trình, sử dụng đèn phù hợp và kiểm tra dung môi.
-•	Sọc trục: Độ nhớt sơn quá cao, trục lăn điều chỉnh không đúng. Cần điều chỉnh độ nhớt và trục lăn.
-•	Sơn màu sậm bị nổi hạt màu : Công thức màu nhiều  màu  pha loãng ( màu thường pha với các loại dung môi chậm khô nên sẽ xày ra hiện tượng này ), nhiệt độ lò sấy quá cao làm sơn sôi hoặc pha quá nhiều dung môi. Cần điều chỉnh công thức màu và nhiệt độ sấy.
-•	Sơn bị nhanh đặt: Bụi môi trường, ánh sáng ban ngày chiếu vào thùng sơn, tia UV từ đèn sấy chiếu trực tiếp vào trục hoặc thùng sơn. Cần bảo quản sơn đúng cách, che chắn tránh ánh sáng và kiểm tra hệ thống che chắn của máy.
-Nguyên tắc xử lý lỗi:
-Khi phát sinh sự cố, cần bình tĩnh xác định rõ lỗi là gì, sau đó tìm hiểu nguyên nhân và đưa ra biện pháp xử lý phù hợp. Có thể tham khảo bảng tổng hợp các lỗi, nguyên nhân và cách xử lý để có hướng dẫn cụ thể.
-Lưu ý quan trọng:
-•	Cần kiểm tra chất lượng hàng hóa ở đầu ca, giữa ca và cuối ca để đảm bảo ổn định chất lượng.
-•	Nắm vững các yếu tố trong quy trình sơn UV: loại sơn, định mức, năng lượng đèn, loại nền, cách kiểm tra và tiêu chuẩn chất lượng. Bất kỳ thay đổi nào trong các yếu tố này đều cần được ghi nhận và có thể yêu cầu điều chỉnh quy trình.
-•	Đối với các đơn hàng sơn UV làm nền cho sơn PU, cần kiểm tra độ bám dính sau khi sơn hoàn thiện lớp PU để đảm bảo chất lượng tổng thể.
-•	Phương pháp kiểm tra chất lượng phải phù hợp với tiêu chuẩn ban đầu. Nếu có yêu cầu kiểm tra khắt khe hơn, cần xem xét điều chỉnh lại quy trình.
-Về độ dày màng sơn, cần phải hiểu rõ rằng đây là một yếu tố quan trọng trong quy trình sơn UV, tương tự như các loại sơn khác. Việc kiểm soát độ dày màng sơn ảnh hưởng trực tiếp đến chất lượng bề mặt, độ phủ, độ bám dính, và thậm chí cả độ bền của lớp sơn.Các yếu tốc ảnh hưởng độ dày màng sơn 
-1.	Khoảng cách giữa trục sắt và trục cao su: Máy lăn trục trong sơn UV bao gồm một trục sắt và một trục cao su. Trục cao su có vai trò mang sơn xuống máng đổ sơn, trong khi trục sắt ép trục cao su lại để điều tiết lượng sơn. Do đó, khoảng cách giữa hai trục này là yếu tố đầu tiên ảnh hưởng đến độ dày của màng sơn. Khoảng cách càng nhỏ (tức là độ ép trục càng lớn), lượng sơn được truyền đi càng ít, dẫn đến màng sơn mỏng hơn và ngược lại.
-2.	Độ ép trục: Như đã đề cập, lực ép giữa trục sắt và trục cao su đóng vai trò then chốt trong việc điều chỉnh độ dày mỏng của lớp sơn. Ép trục nhiều sẽ cho màng sơn mỏng, ép ít sẽ cho màng sơn dày hơn. Tuy nhiên, nếu ép trục hết cỡ mà độ mịn mong muốn vẫn chưa đạt được, cần xem xét các yếu tố khác.
-3.	Độ nhớt của sơn: Khi hai trục đã ép hết cỡ, độ dày màng sơn sẽ phụ thuộc vào độ nhớt của sơn. Sơn có độ nhớt cao (đặc) sẽ khó chảy qua khe hở giữa hai trục hơn, có thể dẫn đến màng sơn dày hơn so với sơn có độ nhớt thấp (loãng) trong cùng điều kiện ép trục.
-4.	Độ mềm của trục cao su: Độ mềm của trục cao su cũng ảnh hưởng đến độ dày màng sơn, đặc biệt khi trục đã ép hết cỡ. Trục cao su quá mềm có thể bị biến dạng nhiều dưới áp lực, làm tăng khe hở và dẫn đến màng sơn dày hơn.
-Để đạt được độ dày màng sơn mong muốn, quy trình thường bao gồm hai bước điều chỉnh:
-•	Chỉnh thô: Bước này chủ yếu dựa vào việc điều chỉnh độ ép của trục sắt lên trục cao su để có được độ dày gần với yêu cầu.
-•	Chỉnh tinh: Sau khi đã có được độ dày sơ bộ, việc điều chỉnh tốc độ giữa trục sắt và trục cao su, cũng như tốc độ băng tải, sẽ giúp tinh chỉnh độ dày và đạt được bề mặt tối ưu.
-Ảnh hưởng của tốc độ trục:
-Tốc độ của trục cao su và tốc độ băng tải phải luôn bằng nhau. Nếu có sự khác biệt, sơn có thể bị nhíu, vên, hoặc mất sơn ở một số chỗ, thậm chí gây ra các vệt sọc trên bề mặt sản phẩm.
-Về tốc độ của trục sắt so với trục cao su, sự chênh lệch giữa chúng có tác động đến độ mịn của lớp sơn. Độ chênh lệch càng lớn (trục sắt quay chậm hơn nhiều so với trục cao su), độ mịn của sơn thường sẽ càng cao. Ngược lại, nếu muốn tăng độ dày màng sơn, có thể điều chỉnh tốc độ trục sắt gần bằng với tốc độ trục cao su. Tuy nhiên, việc để trục sắt đứng im (tốc độ bằng 0) không được khuyến khích vì có thể gây cháy, hư trục nếu không được bơm sơn liên tục.
-Ảnh hưởng của áp lực trục lên bề mặt sản phẩm:
-Cách trục cao su ép lên bề mặt sản phẩm cũng quan trọng. Nếu trục quá cao so với bề mặt gỗ và chỉ chạm nhẹ, độ ép không đủ sẽ tạo ra các sọc lớn và ảnh hưởng đến độ bám dính của sơn. Sơn chỉ nằm trên bề mặt mà không được ép xuống sẽ không bám chắc.
-Ngược lại, nếu ép trục quá mạnh, có thể gây ra hai vấn đề chính:
-•	Hư trục: Chạy liên tục với áp lực quá lớn có thể làm trục bị ngấn.
-•	Vệt ngang trên bề mặt sơn: Áp lực quá mức có thể làm ván bị oằn lên, và độ oằn này sẽ tạo ra các vệt ngang khi nhìn nghiêng dưới ánh sáng.
-Để xác định độ ép trục vừa đủ ("vừa chạm"), cần có kinh nghiệm và thường sẽ có các thông số tham khảo trên máy tương ứng với độ dày ván. Tuy nhiên, do trục có thể bị mòn theo thời gian, các thông số này có thể không còn chính xác. Một phương pháp thủ công được mô tả là hạ trục cao su xuống đến khi chạm ván và ván không còn di chuyển được khi khẽ đẩy, sau đó quay ngược trục nửa vòng để nới lỏng, rồi quay tới ba vòng để đạt được độ ép vừa phải.
-Độ dày màng sơn trong quy trình nhiều lớp:
-Trong quy trình sơn UV nhiều lớp, việc kiểm soát độ dày ở từng công đoạn là rất quan trọng để đảm bảo màu sắc và độ phủ cuối cùng đạt yêu cầu. Nếu ở các lớp sơn lót mà độ dày không đủ, sẽ rất khó để điều chỉnh ở các lớp phủ sau. Việc này có thể dẫn đến phải làm lại, gây tốn kém thời gian và vật liệu.
-Đo lường độ dày màng sơn:
-Về mặt lý thuyết, có thể đo lường độ dày màng sơn bằng cách cân trọng lượng ván trước và sau khi sơn để xác định lượng sơn đã đượcApply (g/m²). Tuy nhiên, trong thực tế sản xuất, việc cân đo này thường khó thực hiện thường xuyên. Do đó, người vận hành thường dựa vào kinh nghiệm và so sánh trực quan bề mặt sơn ở từng công đoạn với mẫu chuẩn.
-Ảnh hưởng đến các lỗi sơn:
-Độ dày màng sơn không phù hợp có thể là nguyên nhân của một số lỗi sơn:
-•	Dễ trầy xước: Nếu lớp sơn bóng quá mỏng, nó sẽ dễ bị trầy xước.
-•	Sai màu: Độ dày màng sơn không đồng đều hoặc quá mỏng/dày có thể dẫn đến sai lệch màu sắc.
-•	Tách lớp: Nếu lớp sơn lót được sấy khô quá mức do đèn UV quá mạnh, lớp sơn phủ bóng có thể không bám dính tốt và gây ra hiện tượng tách lớp. Sơn quá dày cũng có thể khiến tia UV không xuyên thấu hết lớp sơn, dẫn đến việc lớp sơn bên trong không khô hoàn toàn và gây tách lớp.
-•	Bong tróc: Đối với các màu sơn đậm, nếu cán quá dày, tia UV có thể không đủ để làm khô hoàn toàn lớp sơn, dẫn đến bong tróc.
-•	Sọc trục: Độ nhớt sơn quá cao hoặc trục lăn không được điều chỉnh đúng cách có thể gây ra các vệt sọc trên bề mặt sơn.
+•	Độ bóng không đều (sai độ bóng sơn PU)
+o	Nguyên nhân: Hỗn hợp pha chưa khuấy đều trước khi phun. Dung môi sử dụng chưa phù hợp. Lớp sơn phía dưới chưa khô hoàn toàn. Độ dày sơn trên sản phẩm không đều. Bề mặt sản phẩm xử lý chưa đạt. Phòng phun khô kém thoáng khí, chất khí dung môi bốc hơi ô nhiễm không khí, bạch hóa màng phủ.
+o	Biện pháp xử lý nhanh: Phải phủ bóng lại bề mặt sản phẩm.
+o	Phương pháp khắc phục: Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng, và trong lúc phun phải luôn khuấy đều. Tuân thủ sử dụng hóa chất theo quy trình. Kiểm soát độ dày màng sơn đều trên sản phẩm. Xử lý bề mặt sản phẩm đạt yêu cầu mới sơn phủ.
+•	Màng sơn bị trầy xước
+o	Nguyên nhân: Thời gian khô lớp sơn bên ngoài chưa đủ (phải qua 72 giờ). Tính năng sơn: mỗi loại sơn có độ cứng khác nhau. Độ dày màng sơn quá dày. Độ nhớt của sơn không thích hợp khi sơn bề mặt đứng.
+o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Để đủ thời gian kiểm tra lại.
+o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Sử dụng loại sơn có độ cứng phù hợp yêu cầu. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths).
+•	Màng sơn bị sọc (sọc bóng)
+o	Nguyên nhân: Sơn nhanh ráo bề mặt khi phun tạo đường sọc của đường súng sơn (chênh lệch giữa đường sơn trước và sau). Nhiệt độ môi trường và bề mặt sản phẩm cao. Phun gió quá lớn hoặc quá nhỏ. Cần lưu ý độ phẳng bề mặt gỗ khi sơn bóng cao, phun đúng kỹ thuật, không sơn cách nửa và tránh dặm vá.
+o	Biện pháp xử lý nhanh: Xử lý lại bề mặt. Điều chỉnh hỗn hợp sơn cho phù hợp.
+o	Phương pháp khắc phục: Sử dụng chất chậm khô (dung môi Retarder hoặc S P). Kiểm soát nhiệt độ môi trường và bề mặt sản phẩm trước khi phun. Thao tác phun đúng kỹ thuật.
+•	Sản phẩm hoặc hỗn hợp pha bị đóng ván trên bề mặt (ván dầu)
+o	Nguyên nhân: Hỗn hợp pha đựng trong thùng không che đậy và vượt quá thời gian quy định. Một số sơn có tính năng nhanh khô, hỗn hợp pha không sử dụng quá 4 giờ.
+o	Biện pháp xử lý nhanh: Xử lý hỗn hợp pha.
+o	Phương pháp khắc phục: Các thùng đựng sơn phải đậy nắp kỹ khi không sử dụng. Hỗn hợp pha trong quá trình sơn nên thường xuyên khuấy đều. Không sử dụng hỗn hợp sơn sau khi pha quá 4 giờ (đối với sơn hai thành phần), sơn một thành phần phải kiểm tra độ nhớt lại trước khi dùng.
+•	Sản phẩm ra màu không giống nhau (sai màu sơn)
+o	Nguyên nhân: Không khuấy đều sản phẩm trước khi pha và trong quá trình sử dụng. Thao tác sơn không đều tay và chỉnh súng sơn không phù hợp. Nguyên liệu gỗ có nhiều màu sắc khác nhau. Màu sắc trên màng sơn phân bố không đều.
+o	Biện pháp xử lý nhanh: Xử lý lại.
+o	Phương pháp khắc phục: Khuấy đều sản phẩm và hỗn hợp pha trước khi sử dụng. Thao tác sơn đúng kỹ thuật. Sử dụng stain màu sửa gỗ cho tương đối đều màu rồi mới sơn.
+•	Màng sơn bị bong tróc, tách lớp (tróc sơn)
+o	Nguyên nhân: Quy trình không phù hợp. Pha sơn không đúng tỷ lệ, thiếu chất đóng rắn. Hệ màu và glaze không tương thích với sơn. Wood Filler hoặc màu lau, lót chà nhám để qua đêm không vuốt nhám lại trước khi sơn (bề mặt bị hút ẩm và bụi). Không chà nhám hoặc chà nhám lớp nền chưa đạt. Phun sơn không đủ độ phủ (quá mỏng). Sơn nhanh ráo mặt chưa đủ thời gian tan lớp sơn dưới. Sơn bị hấp trên bề mặt. Hỗn hợp pha để quá lâu làm giảm tính năng sơn. Đối với sơn một thành phần, tróc từ lớp lót trở lên.
+o	Biện pháp xử lý nhanh: Đánh giá mức độ bong tróc. Xem bong tróc từ công đoạn nào. Xử lý lại bề mặt. Rửa hoàn toàn lớp sơn và thực hiện lại nếu bong tróc nặng.
+o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Wood Filler hoặc màu lau, lót chà nhám để qua đêm nên vuốt nhám lại trước khi sơn. Xử lý lớp nền đạt yêu cầu trước khi sơn. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm khô (Retarder hoặc S P). Thao tác sơn đúng kỹ thuật và treo sản phẩm không quá khít. Hỗn hợp sơn pha không quá 4 giờ. Đối với hệ sơn một thành phần bị tróc từ lớp lót trở lên, cần chà nhám, phun hỗn hợp dung môi (D môi rửa dầu gỗ thông BT 2508 + 15% A66 Resin), để 1-2 giờ chà nhám hoặc bùi nhùi, phủ bóng + 5% → 7% A 66 Resin.
+•	Màng sơn lau ra màu
+o	Nguyên nhân: Sản phẩm bị lợt màu, dặm stain màu không phủ lại lớp bóng. Dùng vải lau có lẫn dung môi trên hệ sơn một thành phần. Sản phẩm chưa đủ thời gian khô (đối với hàng ngoài trời).
+o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm, phun thêm lớp bóng phủ.
+o	Phương pháp khắc phục: Phải phủ lớp bóng bên ngoài sau khi dặm màu. Vải lau phải sạch, không lẫn dung môi làm tan lớp sơn. Đảm bảo đủ thời gian khô theo quy trình (hàng ngoài trời).
+•	Màng sơn bị mốc sau khi phun khô
+o	Nguyên nhân: Điều kiện môi trường độ ẩm quá cao (> 75%), nhiệt độ thấp (< 22°C). Đường dây hơi bị lẫn nước. Dùng dung môi không phù hợp. Phun gió quá mạnh.
+o	Biện pháp xử lý nhanh: Xử lý nhanh để tiếp tục sản xuất.
+o	Phương pháp khắc phục: Điều chỉnh môi trường phù hợp (sử dụng buồng sấy). Vệ sinh đường dây hơi phun. Sử dụng dung môi theo quy trình. Thao tác phun đúng kỹ thuật.
+Dựa trên tài liệu "trouble shooting.pdf", sau đây là chi tiết về các lỗi thường gặp trong quá trình sơn lại (refinish), bao gồm nguyên nhân, cách khắc phục và biện pháp phòng ngừa:
+1. Bọt khí bị giữ lại (Air Entrapment Craters) sưu tầm
+Các lỗ nhỏ giống như miệng núi lửa xuất hiện trên hoặc trong màng sơn.
+Nguyên nhân:
+•	Các túi khí bị giữ lại trong lớp sơn ướt, sau đó nổi lên bề mặt và "vỡ" ra, tạo thành các lỗ nhỏ.
+•	Sự phun sơn không đủ mịn (lack of atomization) có thể do một hoặc nhiều nguyên nhân sau: 
+o	Tốc độ di chuyển súng phun quá chậm (Spray gun travel too slow).
+o	Khoảng cách từ súng phun đến bề mặt quá gần (Spray gun distance too close).
+o	Áp suất khí quá thấp (Air pressure to low).
+o	Thiết lập súng phun không đúng (Improper spray gun setup).
+Khắc phục:
+•	Chà nhám bằng giấy nhám loại 1200 hoặc mịn hơn, sau đó dùng chất đánh bóng (compound) và đánh bóng (polish) để khôi phục độ bóng.
+•	Hoặc, chà nhám cho bề mặt mịn và sơn lại (refinish).
+Phòng ngừa:
+•	Duy trì tốc độ di chuyển súng phun chính xác (Maintain correct spray gun speed).
+•	Duy trì khoảng cách súng phun chính xác (Maintain correct spray gun distance).
+•	Sử dụng áp suất khí được khuyến nghị (Use the recommended air pressure).
+•	Sử dụng chụp khí/béc phun/kim phun (air cap/nozzle/needle) phù hợp được khuyến nghị cho lớp sơn bóng (clear coats).
+Lưu ý:
+•	Một số trường hợp bọt khí bị giữ lại có thể có bề ngoài rất giống với hiện tượng nổ dung môi (solvent pop) hoặc bụi bẩn bám vào. Tuy nhiên, bọt khí bị giữ lại thường xảy ra khi màng sơn còn ướt và có thể xử lý bằng quy trình đánh bóng. Mặt khác, hiện tượng nổ dung môi sẽ xuất hiện sau khi màng sơn đã "se" bề mặt (skinned over) và khi chà nhám sẽ có các lỗ kim. Bụi bẩn bám vào sẽ xuất hiện khi màng sơn đang khô nhưng vẫn còn "dính". Các lỗ này, khi quan sát kỹ, sẽ có một hạt bụi ở giữa.
+2. Phai màu (Bleeding Discoloration) sưu tầm
+Sự đổi màu đỏ hoặc vàng ở lớp sơn phủ ngoài (topcoat color).
+Nguyên nhân:
+•	Dung môi trong lớp sơn phủ mới hòa tan các chất nhuộm hoặc bột màu hòa tan trong lớp sơn cũ, khiến chúng thấm vào và làm đổi màu lớp sơn mới.
+Khắc phục:
+•	Để màu sơn khô hoàn toàn (cure), cách ly bằng hai lớp sơn lót (undercoat) và sơn lại (refinish).
+•	Hoặc, loại bỏ hoàn toàn lớp sơn cũ và sơn lại (refinish).
+Phòng ngừa:
+•	Cách ly lớp sơn nghi ngờ bị phai màu bằng cách sơn một hoặc hai lớp sơn lót bề mặt hai thành phần (two component surfacer) và/hoặc lớp lót (sealer). Để khô hoàn toàn theo khuyến nghị của sản phẩm, sau đó sơn lớp phủ mong muốn.
+3. Rộp (Blistering Pimples, Bubbles, Bumps) sưu tầm
+Các vùng bị phồng rộp xuất hiện như mụn hoặc bong bóng trong màng sơn phủ, thường xảy ra sau vài tháng thi công.
+Nguyên nhân:
+•	Độ ẩm bị giữ lại bên dưới màng sơn do: 
+o	Thời gian khô không đủ sau khi chà nhám ướt;
+o	Đường dẫn khí bị nhiễm bẩn;
+o	Phun sơn trong điều kiện độ ẩm quá cao.
+•	Sử dụng dung môi pha sơn/chất làm loãng (thinner/reducer) kém chất lượng và/hoặc bay hơi quá nhanh so với điều kiện phun.
+•	Dung môi bị giữ lại do sơn các lớp quá dày khi còn ướt (wet heavy coats) mà không có đủ thời gian chờ giữa các lớp (insufficient flash time).
+•	Thời gian khô không đủ của các lớp sơn lót trước khi sơn phủ (improper dry time of undercoats before topcoating).
+•	Sơn trên bề mặt có dầu mỡ hoặc rỉ sét.
+Khắc phục:
+•	Loại bỏ vùng bị ảnh hưởng và sơn lại (refinish).
+•	Các trường hợp nghiêm trọng phải loại bỏ hoàn toàn lớp sơn đến bề mặt nền (bare substrate) trước khi sơn lại (refinishing).
+Phòng ngừa:
+•	Nếu thích chà nhám ướt, hãy để đủ thời gian cho hơi ẩm bay hơi. Tránh chà nhám ướt lớp sơn lót gốc lacquer khi có thể. Thường xuyên xả nước từ máy nén khí và đường dẫn khí. Tăng thêm thời gian chờ giữa các lớp và/hoặc thêm chất làm chậm khô (retarder) khi phun trong điều kiện ẩm ướt, hoặc phun vào thời điểm độ ẩm thấp khi có thể.
+•	Chọn dung môi pha sơn/chất làm loãng phù hợp với điều kiện phun (Select proper thinner/reducer for spray conditions).
+•	Thi công vật liệu theo khuyến nghị của sản phẩm, đảm bảo đủ thời gian chờ giữa các lớp (Apply materials according to product recommendations, allowing sufficient flash time between coats).
+•	Để các lớp sơn lót khô/đóng rắn hoàn toàn trước khi sơn phủ (Allow undercoats to thoroughly dry/cure before topcoating).
+•	Làm sạch và chuẩn bị bề mặt nền bằng các sản phẩm và quy trình được khuyến nghị (Clean and prep substrate using recommended products and procedures).
+4. Mờ trắng (Blushing Milkiness) sưu tầm
+Một lớp mờ màu xám sữa xuất hiện trên bề mặt màng sơn ngay lập tức hoặc một thời gian ngắn sau khi thi công.
+Nguyên nhân:
+•	Khi phun trong điều kiện độ ẩm cao, không khí từ súng phun và sự bay hơi của dung môi làm giảm nhiệt độ bề mặt nền xuống dưới điểm sương (dew point), khiến hơi ẩm trong không khí ngưng tụ trong hoặc trên màng sơn. Tình trạng này trở nên nghiêm trọng hơn khi sử dụng dung môi pha sơn/chất làm loãng khô quá nhanh hoặc không cân bằng (unbalanced thinner/reducer).
+Khắc phục:
+•	Nếu hiện tượng mờ trắng xảy ra trong quá trình thi công: 
+o	(a) Làm nóng vùng bị ảnh hưởng, hoặc
+o	(b) Thêm chất làm chậm khô (retarder) và sơn thêm các lớp khác.
+•	Nếu lớp sơn đã khô, hiện tượng mờ trắng nhẹ có thể được khắc phục bằng cách đánh bóng (compounding or polishing). Tuy nhiên, hiện tượng mờ trắng nghiêm trọng sẽ cần phải chà nhám và sơn lại (refinishing).
+Phòng ngừa:
+•	Luôn sử dụng dung môi và chất pha loãng/giảm chất lượng tốt theo hướng dẫn trên nhãn sản phẩm (Always use good quality solvent and thin/reduce material according to label directions).
+•	Chọn dung môi pha sơn/chất làm loãng phù hợp với điều kiện phun (Select proper thinner/reducer for spray condition).
+•	Thêm lượng chất làm chậm khô (retarder) được khuyến nghị khi phun trong điều kiện ẩm ướt (Add the recommended amount of retarder when spraying in humid conditions).
+•	Làm nóng sau khi thi công để làm bay hơi hơi ẩm (Apply heat after application to evaporate moisture).
+5. Phấn hóa (Chalking Fading, Oxidation, Weathering) sưu tầm
+Bề mặt màng sơn có màu trắng như phấn.
+Nguyên nhân:
+•	Bột màu không còn được giữ và bảo vệ bởi nhựa (resin), dẫn đến bề mặt như bột và mất độ bóng do: 
+o	Sự lão hóa tự nhiên của màng sơn (Natural weathering of the paint film).
+o	Thi công sơn không đúng cách (Improper application of paint material).
+o	Sử dụng dung môi pha sơn/chất làm loãng và/hoặc chất làm cứng (hardener) không chính hãng (generic) trong vật liệu sơn.
+o	Sử dụng quá nhiều lớp phun sương (mist/fog coats) khi sơn các lớp màu metallic một thành phần (single stage metallic finishes).
+Khắc phục:
+•	Đánh bóng (Compound) để loại bỏ lớp oxy hóa và đánh bóng (polish) để khôi phục độ bóng.
+•	Hoặc, chà nhám để loại bỏ lớp sơn bị "lão hóa" và sơn lại (refinish).
+Phòng ngừa:
+•	Rửa xe hàng tuần và thỉnh thoảng đánh bóng hoặc phủ sáp sẽ loại bỏ lớp oxy hóa khỏi bề mặt sơn (Weekly washing and occasional polishing or waxing will remove oxidation from the finish).
+•	Khuấy, lắc hoặc khuấy động kỹ tất cả các vật liệu sơn (Thoroughly stir, shake or agitate all paint materials).
+•	Sử dụng dung môi pha sơn/chất làm loãng, chất làm cứng được khuyến nghị và đo lường chính xác (Use the recommended thinner/reducer, hardener, and measure accurately).
+•	Khi phun sơn metallic một thành phần, hãy phun các lớp sương từng vùng (panel by panel) khi lớp sơn trước vẫn còn ướt (When spraying single stage metallic finishes, apply mist/fog coats panel by panel while finish is still wet).
+6. Ăn mòn hóa học/Khắc axit (Chemical Staining/Etching Acid Rain, Spotting, Discoloration) sưu tầm
+Các vết rỗ, khắc hoặc đổi màu hình dạng không đều trên màng sơn.
+Nguyên nhân:
+•	Một phản ứng hóa học xảy ra khi các chất ô nhiễm môi trường có hại, chẳng hạn như mưa axit, nhựa cây, phân chim, nhựa đường, v.v., bám trên bề mặt trong một thời gian dài.
+Khắc phục:
+•	Rửa xe bằng xà phòng và nước nóng, rửa sạch và lau khô (Wash the vehicle with soap and hot water, rinse and dry).
+•	Làm sạch bằng dung môi với chất làm sạch bề mặt thích hợp (Solvent clean with appropriate surface cleaner).
+•	Rửa bằng dung dịch baking soda và rửa lại kỹ (Wash with baking soda solution and rinse thoroughly. (One tablespoon baking soda per one quart water.)).
+•	Đánh bóng vùng bị hư hỏng (Compound damaged surface) và đánh bóng (polish) để khôi phục độ bóng.
+•	Nếu đánh bóng không loại bỏ được hư hỏng, hãy chà nhám ướt bằng giấy nhám loại 1500-2000, sau đó đánh bóng (compound and polish) để khôi phục độ bóng.
+•	Nếu cần sơn lại (refinishing), hãy chà nhám để loại bỏ vùng bị hư hỏng bằng giấy nhám có độ nhám phù hợp, rửa bằng dung dịch baking soda, sau đó sơn lại. Trong trường hợp nghiêm trọng, phải loại bỏ hoàn toàn lớp sơn đến bề mặt kim loại (bare metal).
+Phòng ngừa:
+•	Loại bỏ các chất ô nhiễm hòa tan trong nước có hại bằng cách thường xuyên rửa bằng chất tẩy rửa và nước sạch (Remove harmful water soluble contaminants by regularly washing with detergent and clear water).
+•	Định kỳ đánh bóng hoặc phủ sáp (Polish or wax periodically).
+•	Tránh đỗ xe dưới cây cối hoặc gần các nhà máy thải ra các chất hóa học (Avoid parking under trees or near factories that produce chemical fallout).
+•	Sơn lại bằng hệ thống sơn phủ gốc acrylic urethane/lớp bóng (basecoat/clearcoat) để mang lại sự bảo vệ tối đa (Refinish with an acrylic urethane basecoat/clearcoat system to provide the maximum protection).
+Lưu ý:
+•	Khi chà nhám và đánh bóng lớp sơn phủ gốc/bóng (basecoat/clearcoat), cần duy trì độ dày tối thiểu của lớp bóng (2 mils) để đảm bảo khả năng bảo vệ khỏi tia cực tím đầy đủ. Nếu việc khắc phục hư hỏng dẫn đến việc loại bỏ hơn 0.5 mils, nên sơn lại (refinishing).
+7. Sứt mẻ (Chipping Nicks, Stone Pecks, Chips, Bruises) sưu tầm
+Các vùng hư hỏng nhỏ trên màng sơn, để lại vết sứt, mẻ hoặc lỗ hổng trên bề mặt sơn.
+Nguyên nhân:
+•	Mất độ bám dính của màng sơn vào bề mặt nền do va đập từ đá hoặc các vật cứng khác.
+Khắc phục:
+•	Chà nhám và vát mép (featheredge) các vùng bị hư hỏng để loại bỏ các vết sứt mẻ, sau đó sơn lại (refinish).
+Phòng ngừa:
+•	Sử dụng hệ thống sơn lót và sơn phủ hai thành phần chất lượng cao (Use premium two component undercoat and topcoat system).
+•	Sử dụng chất tăng độ mềm dẻo (flex agent) trong hệ thống sơn lót và/hoặc sơn phủ ở những khu vực dễ bị sứt mẻ (Use a flex agent in undercoat and/or topcoat system in areas that are prone to chipping).
+8. Lệch màu (Color Mismatch Off Color, Off Shade) sưu tầm
+Lớp sơn gốc và lớp sơn sửa chữa có sự khác biệt màu sắc đáng chú ý khi quan sát dưới cùng điều kiện ánh sáng.
+Nguyên nhân:
+•	Màu sơn gốc đã "trượt" (drifted) so với tiêu chuẩn của nhà sản xuất.
+•	Lớp sơn cũ bị lão hóa và oxy hóa.
+•	Màu sơn pha quá loãng hoặc quá đặc (Color over or under reduced).
+•	Quy trình phun sơn không đúng (Improper spray procedures).
+•	Màu sơn không được khuấy hoặc lắc đều (Color not properly stirred or shaken).
+•	Thiết lập súng phun không đúng (Improper spray gun set up).
+•	Pha màu theo công thức không chính xác (Inaccurate mixing of the color formula).
+•	Sơn "từng tấm" (Panel painting) thay vì pha trộn màu (blending).
+•	Đánh giá màu dưới nguồn sáng khác với ánh sáng "hiệu chỉnh màu" (color corrected) hoặc ánh sáng tự nhiên.
+•	Chỉnh màu trước khi phun, hoặc chỉnh lớp sơn nền (basecoat) trước khi sơn lớp bóng (clearcoat).
+Khắc phục:
+•	Nếu màu sơn đủ gần để có thể pha trộn (blend): 
+o	(1) Chuẩn bị các tấm liền kề để pha trộn, sau đó (2) pha trộn màu vào các tấm liền kề.
+•	Nếu cần pha thêm màu (tint): 
+o	(1) Pha màu để có độ trùng khớp có thể pha trộn được, (2) chuẩn bị các tấm liền kề để pha trộn, sau đó (3) phun lại vùng sửa chữa, pha trộn vào các tấm liền kề.
+Phòng ngừa:
+•	Kiểm tra bảng màu thay thế để tìm các biến thể. Chọn biến thể có độ trùng khớp có thể pha trộn được (Check alternate color selector for variances. Choose the alternate that provides a blendable match).
+•	Tất cả màu sơn phải được xem dưới cùng độ bóng; đánh bóng (compound or polish) vùng cần so màu (All color must be viewed under equal gloss; compound or polish the area to be matched).
+•	Pha loãng/giảm theo hướng dẫn trên nhãn (Thin/reduce according to label direction).
+•	Tuân theo hướng dẫn trên nhãn để thi công đúng lớp sơn màu (Follow label directions for proper application of color coat).
+•	Khuấy hoặc lắc kỹ vật liệu để đảm bảo tất cả bột màu và chất metallic hòa tan và lơ lửng đều (Stir or shake materials thoroughly to be sure all pigments and metallics are in solution and suspension).
+•	Tham khảo nhãn sản phẩm hoặc phiếu dữ liệu (data sheet) để biết các khuyến nghị về súng phun, béc phun và chụp khí (Refer to product label or data sheet for spray gun, fluid nozzle, and air cap recommendations).
+•	Kiểm tra lại mã màu, số công thức, trọng lượng công thức trước khi pha màu (Recheck color code, formula number, formula weights before mixing colors).
+•	Phun thử một tấm mẫu trước khi thi công để xác định xem có cần pha trộn hoặc pha thêm màu hay không (Spray a test panel prior to application to determine if blending or tinting is necessary).
+•	Luôn sử dụng ánh sáng ban ngày tự nhiên hoặc đèn hiệu chỉnh màu để đưa ra quyết định về việc so màu (Always use natural daylight or color corrected lights to make color matching decisions).
+•	Tất cả màu sơn phải được phun ra để đánh giá chính xác. Các lớp sơn nền phải được sơn lớp bóng (All color must be sprayed out for an accurate evaluation. Basecoats must have clearcoat applied).
+•	Kiểm tra màu từ mọi góc độ, trực diện (90 độ) và nghiêng (20-60 độ) (Check color from all angles, face (90 degrees) and side tone (20-60 degrees)).
+9. Nứt nẻ (Cracking Checking, Crazing, Splitting, Alligatoring, Crowsfeet) sưu tầm
+Các vết nứt hoặc đường kẻ với độ dài và độ rộng khác nhau trên lớp sơn phủ ngoài, thường giống như các vết nứt của bùn khô.
+Nguyên nhân:
+•	Độ dày màng sơn quá mức của lớp sơn lót và/hoặc lớp sơn phủ (Excessive film thickness of the undercoat and/or topcoat).
+•	Sơn lại trên bề mặt đã bị nứt nẻ trước đó (Refinishing over a previously crazed/cracked surface).
+•	Thời gian chờ giữa các lớp không đủ và/hoặc sấy khô cưỡng bức (force drying) các lớp sơn lót bằng khí từ súng phun (Insufficient flash time between coats and/or force drying undercoats using air from the spray gun).
+•	Pha trộn không đúng cách hoặc sử dụng quá nhiều chất làm cứng (Mixing incorrectly or using too much hardener).
+•	Các thành phần sơn không được khuấy hoặc lắc kỹ (Paint ingredients not thoroughly stirred or agitated).
+•	Sự phân hủy của lớp sơn do tiếp xúc kéo dài với ánh sáng mặt trời, độ ẩm và sự thay đổi nhiệt độ khắc nghiệt (Breakdown of finish due to prolonged exposure to sunlight, moisture, and extreme temperature changes).
+•	Sử dụng chất làm loãng và/hoặc chất làm cứng không chính hãng (Using generic reducers and/or hardeners).
+Khắc phục:
+•	Loại bỏ hoàn toàn lớp sơn bị nứt và sơn lại (refinish).
+Phòng ngừa:
+•	Thi công tất cả vật liệu theo hướng dẫn trên nhãn (Apply all materials following label direction).
+•	Loại bỏ hoàn toàn các lớp sơn bị nứt nẻ trước khi sơn lại (Completely remove crazed/cracked finishes before refinishing).
+•	Không sấy khô cưỡng bức các lớp sơn lót bằng cách quạt gió bằng súng phun (Do not force dry undercoats by fanning with spray gun air).
+•	Trộn kỹ các thành phần bằng cách sử dụng các chất phụ gia được khuyến nghị. Thêm từng thành phần theo đúng trình tự theo tỷ lệ pha trộn được khuyến nghị (Mix ingredients thoroughly using the recommended additives. Add each component in proper sequence following the recommended mixing ratio).
+•	Khuấy hoặc lắc kỹ vật liệu trước khi sử dụng để đảm bảo tất cả các thành phần hòa tan (Stir or agitate materials thoroughly before use to ensure all ingredients are in solution).
+•	Sử dụng hệ thống sơn lót và sơn phủ hai thành phần chất lượng cao để mang lại độ bóng và độ bền tối đa (Use premium two component undercoat and topcoat system to provide maximum gloss and durability).
+•	Sử dụng dung môi pha sơn/chất làm loãng và chất làm cứng được khuyến nghị, sau đó đo lường chính xác (Use the recommended thinner/reducer and hardener, and then measure accurately).
+10. Bụi bẩn bám vào (Dust Contamination Dirt in Finish) sưu tầm
+Các hạt lạ bị mắc kẹt trong màng sơn.
+Nguyên nhân:
+•	Làm sạch bề mặt cần sơn không đủ (Inadequate cleaning of the surface to be painted).
+•	Môi trường phun sơn bẩn (Dirty spraying environment).
+•	Hệ thống lọc khí không đủ hoặc không khí không được lọc lọt vào buồng phun (Inadequate air filtration or unfiltered air entering the booth).
+•	Quần áo bảo hộ bẩn hoặc không phù hợp có chứa bụi, xơ vải (Dirty or unsuitable work clothes that contain dust, lint, or fibers).
+•	Các hạt từ đường ống dẫn khí bị hỏng (Particles from deteriorated air supply lines).
+•	Sử dụng giấy che chắn (masking paper) kém chất lượng (Using a poor grade masking paper).
+•	Súng phun bẩn (Dirty spray gun).
+•	Đưa xe ra khỏi buồng phun trước khi lớp sơn "không còn bụi" (Removing the vehicle from the spray booth before the finish is "dust free").
+Khắc phục:
+•	Chà nhám bằng giấy nhám loại 1200 hoặc mịn hơn, sau đó dùng chất đánh bóng (compound) và đánh bóng (polish) để khôi phục độ bóng.
+•	Hoặc, chà nhám cho bề mặt mịn và sơn lại (refinish).
+Phòng ngừa:
+•	Thổi sạch xung quanh cửa sổ, cửa ra vào, mép cửa (jambs), nắp capo, cốp xe, các đường viền (moldings), khoang động cơ và các hốc bánh xe. Lau bề mặt cần sơn và giấy che chắn bằng khăn dính bụi (tack rag) (Thoroughly blow off around windows, doors, jambs, hood, trunk, moldings, engine compartment, and wheel openings. Wipe the surface to be painted and the masking paper with the tack rag).
+•	Duy trì khu vực làm việc sạch sẽ (Maintain a clean working area).
+•	Lắp đặt bộ lọc khí thích hợp. Không bao giờ sử dụng bộ lọc lò sưởi dân dụng trong buồng phun (Install proper air filters. Never use residential-type furnace filters in the spray booth).
+•	Sửa chữa mọi chỗ rò rỉ trong buồng phun do cửa, gioăng, mối nối hoặc bộ lọc không kín (Repair any leakage found in the spray booth due to poor fitting doors, gaskets, seams or filters).
+•	Mặc quần áo bảo hộ không xơ vải trong quá trình phun sơn (Wear a lint free paint suit during the spray application).
+•	Sử dụng vật liệu che chắn chất lượng tốt. Các "mảnh vụn" (wicks) từ giấy báo có thể bong ra và thổi vào lớp sơn ướt (Use quality masking materials. "Wicks" found on newspaper can break away and blow into the wet paint).
+•	Sửa chữa hoặc thay thế đường ống dẫn khí bị hỏng (Repair or replace defective air lines).
+•	Vệ sinh và bảo dưỡng đúng cách thiết bị phun sơn (Properly clean and maintain spray equipment).
+•	Giữ xe trong môi trường sạch sẽ cho đến khi lớp sơn "không còn bụi" (Vehicle should be kept in a clean environment until finish is "dust free").
+Lưu ý:
+•	Các hạt bụi mịn rơi trên bề mặt dính có thể bị lớp sơn bao phủ, tạo ra vẻ ngoài gần giống hệt như hiện tượng nổ dung môi (solvent pop). Hiện tượng "nổ dung môi" này thường xảy ra trên các xe được đưa ra khỏi buồng phun khi lớp sơn vẫn còn hơi dính và được đặt ở nơi khác để khô. Bụi bẩn bám vào có thể được loại bỏ bằng cách chà nhám và đánh bóng. Tuy nhiên, nếu đó là hiện tượng nổ dung môi, lớp sơn sẽ có các lỗ kim hoặc các lỗ nhỏ sau khi chà nhám.
+11. Lộ viền (Edge Mapping Edge Ringing, Featheredge Lifting) sưu tầm
+Các mép bị phồng hoặc bong lên trong màng sơn ướt hoặc khô, tạo đường viền cho các chỗ chà nhám thủng (sand throughs) hoặc mép vát (featheredges).
+Nguyên nhân:
+•	Dung môi từ lớp sơn phủ mới thấm vào bề mặt nền nhạy cảm với dung môi, gây ra hiện tượng bong hoặc nhăn nheo theo đường viền mép vát.
+Khắc phục:
+•	Chà nhám cho bề mặt mịn hoặc loại bỏ vùng bị ảnh hưởng. (Chà nhám cuối cùng bằng giấy nhám loại 400 hoặc mịn hơn).
+•	Cách ly vùng bị ảnh hưởng bằng sơn lót bề mặt hai thành phần (two component primer surfacer) và sơn lại (refinish).
+•	Hoặc, sơn lớp lót bề mặt gốc nước (water borne primer surfacer), chà nhám mịn và sơn lại (refinish).
+•	Hoặc, sơn lớp lót bề mặt gốc acrylic lacquer pha loãng bằng dung môi không thẩm thấu (non-penetrating thinner), chà nhám mịn và sơn lại (refinish).
+Phòng ngừa:
+•	Kiểm tra các bề mặt sơn đáng ngờ bằng cách chà xát một vùng nhỏ kín đáo bằng khăn lau có thấm dung môi lacquer. Các bề mặt sơn dễ bị bong tróc sẽ mềm, nhăn hoặc co lại khi bôi dung môi lacquer. Nếu xảy ra bất kỳ phản ứng nào trong số này, nên cân nhắc các khuyến nghị sau: 
+o	Sử dụng sơn lót bề mặt gốc acrylic urethane, sơn lót bề mặt gốc nước, hoặc sơn lót bề mặt gốc acrylic lacquer pha loãng bằng dung môi không thẩm thấu trên các bề mặt nhạy cảm.
+o	Sử dụng giấy nhám loại 400 hoặc mịn hơn khi vát mép.
+o	Tránh chà nhám thủng lớp sơn phủ màu hoặc lớp bóng không hòa tan, làm lộ ra các lớp sơn nhạy cảm hoặc hòa tan với dung môi.
+12. Mắt cá (Fisheyes Silicone Contamination, Cratering) sưu tầm
+Các lỗ tròn nhỏ giống như miệng núi lửa xuất hiện trong hoặc ngay sau khi phun sơn.
+Nguyên nhân:
+•	Phun sơn trên bề mặt bị nhiễm dầu, sáp, silicone, mỡ, v.v.
+•	Sử dụng dung môi pha sơn/chất làm loãng thay vì chất làm sạch dung môi (solvent cleaner).
+•	Phun sơn trên các vùng đã sửa chữa trước đó có chứa phụ gia "chống mắt cá" (fisheye eliminator).
+Khắc phục:
+•	Loại bỏ lớp sơn ướt bằng dung môi, làm sạch và sơn lại (refinish).
+•	Thêm chất chống mắt cá được khuyến nghị và phun lại vùng bị ảnh hưởng.
+•	Nếu mắt cá xuất hiện trong lớp sơn nền (basecoat), hãy để lớp màu bay hơi (flash) rồi phun một lớp sương lên vùng bị ảnh hưởng. Không sử dụng chất chống mắt cá trong lớp sơn lót hoặc lớp sơn nền.
+•	Nếu sơn đã khô, chà nhám mịn xuống dưới các lỗ mắt cá và sơn lại (refinish).
+Phòng ngừa:
+•	Làm sạch kỹ bề mặt cần sơn bằng chất tẩy rửa và nước nóng, sau đó dùng chất làm sạch dung môi được khuyến nghị. Lau khô bằng giẻ sạch (Thoroughly clean the surface to be painted with detergent and hot water, followed by the recommended solvent cleaner. Wipe dry with clean rags).
+•	Sử dụng chất chống mắt cá được khuyến nghị đặc biệt cho lớp sơn phủ (Use fisheye eliminator that is specifically recommended for the topcoat).
+•	Lắp đặt hệ thống lọc khí có khả năng loại bỏ và ngăn ngừa ô nhiễm dầu và hơi ẩm (Install an air filtering system that removes and prevents oil and moisture contamination).
+•	Bảo trì hệ thống cấp khí bằng cách xả, làm sạch và thay thế bộ lọc định kỳ (Maintain air supply by draining, cleaning and changing filter(s) on a routine basis).
+13. Bong tróc (Lifting Wrinkling, Raising, Alligatoring, Shriveling, Swelling) sưu tầm
+Lớp sơn cũ co rút, nhăn nheo hoặc phồng rộp trong quá trình thi công hoặc khô lớp sơn mới.
+Nguyên nhân:
+•	Dung môi trong sản phẩm mới vừa thi công tấn công lớp sơn cũ, gây ra hiện tượng nhăn nheo, phồng rộp hoặc co rút của màng sơn do: 
+o	Sơn phủ lại (recoating) các loại sơn enamel hoặc urethane chưa khô hoàn toàn.
+o	Vượt quá thời gian chờ tối đa (maximum flash or recoat times) trong quá trình thi công.
+o	Sơn phủ lại lớp sơn nền/bóng (basecoat/clearcoat) khi lớp bóng cũ không đủ độ dày màng sơn (insufficient film build).
+Khắc phục:
+•	Loại bỏ các vùng bị bong tróc và sơn lại (refinish).
+Phòng ngừa:
+•	Kiểm tra các bề mặt sơn đáng ngờ bằng cách chà xát một vùng nhỏ kín đáo bằng khăn lau có thấm dung môi lacquer. Các bề mặt sơn dễ bị bong tróc sẽ mềm, phồng hoặc co lại khi bôi dung môi lacquer. Nếu xảy ra bất kỳ phản ứng nào trong số này, nên cân nhắc các khuyến nghị sau: 
+o	Không vượt quá thời gian sơn phủ lại tối đa của sản phẩm trong hoặc sau khi thi công.
+o	Để sơn enamel hoặc urethane khô hoàn toàn trước khi sơn phủ lại hoặc tiến hành sửa chữa.
+o	Tránh sơn các lớp lót hoặc lớp phủ quá ướt.
+o	Tránh sử dụng các sản phẩm lacquer trên lớp sơn enamel đã khô tự nhiên.
+o	Khi vật liệu không hòa tan (enamel/urethane) được sơn trên vật liệu hòa tan (lacquer): 
+	Tránh chà nhám thủng làm lộ ra các vùng vật liệu hòa tan.
+	Sơn lớp lót bề mặt và/hoặc lớp lót hai thành phần (two component primer surfacer and/or sealer) như một lớp ngăn cách giữa lớp sơn mới và lớp sơn cũ. Khi sơn các lớp lót hai thành phần trên bề mặt sơn hòa tan, phải sơn toàn bộ tấm.
+o	Sử dụng lớp lót gốc nước (water borne undercoats) để sửa chữa các bề mặt sơn cực kỳ nhạy cảm.
+14. Mất độ bóng (Loss of Gloss Hazing Dulling, Dieback, Matting, Weathering) sưu tầm
+Độ bóng giảm dần khi màng sơn khô hoặc lão hóa.
+Nguyên nhân:
+•	Sơn phủ (topcoat) được thi công các lớp dày và ướt.
+•	Thời gian chờ giữa các lớp không đủ (Inadequate flash time between coats).
+•	Độ dày màng sơn không đủ của lớp sơn phủ màu hoặc lớp bóng (Insufficient film thickness of topcoat color or clearcoat).
+•	Các lớp sơn lót không đủ khô/đóng rắn trước khi sơn phủ (Insufficient drying/curling of undercoats before applying topcoats).
+•	Sử dụng dung môi pha sơn/chất làm loãng kém chất lượng và/hoặc bay hơi quá nhanh so với điều kiện phun (Using a poor grade and/or too fast evaporating thinner/reducer for spray conditions).
+•	Làm sạch bề mặt nền không đúng cách (Improper cleaning of the substrate).
+•	Không đủ sự lưu thông không khí trong và sau khi thi công (Insufficient air movement during and after application).
+•	Phun sơn trên bề mặt sơn đã xuống cấp hoặc nhạy cảm với dung môi mà không có quy trình sơn lót hoặc làm kín (sealing) phù hợp (Spraying over a deteriorated or solvent sensitive substrate finish without proper priming or sealing procedures).
+•	Sự lão hóa tự nhiên của lớp sơn (Natural weathering of the finish).
+Khắc phục:
+•	Để lớp sơn khô hoàn toàn (cure thoroughly), đánh bóng (compound or polish) để khôi phục độ bóng.
+•	Hoặc, chà nhám và sơn lại (refinish).
+Phòng ngừa:
+•	Thi công lớp sơn phủ theo hướng dẫn trên nhãn sản phẩm, sử dụng thiết lập súng phun và áp suất khí được khuyến nghị (Apply the topcoat according to product label directions using the recommended gun set-up and air pressure).
+•	Đảm bảo tất cả các lớp sơn có đủ thời gian chờ giữa các lớp (Allow all coatings sufficient flash between coats).
+•	Sơn đủ số lớp để đạt được độ dày màng sơn thích hợp được khuyến nghị. Kiểm tra bằng thước đo độ dày màng sơn nếu có thể (Apply sufficient number of coats to achieve recommended proper film thickness. Check with film thickness gauge if possible).
+•	Để các lớp sơn lót khô/đóng rắn hoàn toàn trước khi sơn phủ (Allow undercoats to thoroughly dry/cure before topcoating).
+•	Chọn dung môi pha sơn/chất làm loãng được khuyến nghị dựa trên nhiệt độ, độ ẩm, sự lưu thông không khí và quy mô sửa chữa (Select recommended thinner/reducer based on temperature, humidity, air movement, and size of repair).
+•	Làm sạch bề mặt nền kỹ lưỡng trước và sau khi chà nhám (Clean substrate thoroughly before and after sanding).
+•	Đối với các trường hợp khô tự nhiên: 
+o	Để quạt hút gió hoạt động 40 phút hoặc lâu hơn sau khi phun (allow exhaust fan to run 40 minutes or longer after spraying).
+o	Mở cửa buồng phun sau khi lớp sơn không còn bụi (open booth doors after finish is dust free).
+o	Duy trì nhiệt độ xưởng từ 15.5 độ C (60 degrees Fahrenheit) trở lên, đặc biệt khi để khô qua đêm (maintain a shop temperature of 60 degrees fahrenheit or above, especially when drying overnight).
+•	Để có độ bám dính tối đa (maximum holdout), hãy sử dụng hệ thống sơn lót hai thành phần chất lượng cao (use a premium two component undercoat system).
+•	Thường xuyên rửa và chăm sóc đúng cách bề mặt sơn (Properly wash and care for the finish on a regular basis).
+•	Sử dụng hệ thống sơn phủ màu hoặc lớp bóng chất lượng cao sẽ mang lại độ bóng và độ bền tối đa (Using premium topcoat color or clearcoat system will provide maximum gloss and durability).
 
-
-{Ghi rõ và chính xác nội dung ghi âm } Về tốc độ trục lăn trong quy trình sơn UV, đây là một yếu tố then chốt ảnh hưởng đến độ dày, độ mịn và chất lượng tổng thể của lớp sơn. Nội dung ghi âm đã trình bày chi tiết và chính xác về vai trò và cách điều chỉnh tốc độ của các trục lăn.
-Trong máy lăn trục sơn UV, chúng ta có hai trục chính cần quan tâm về tốc độ: trục cao su và trục sắt. Trục cao su có nhiệm vụ mang sơn từ máng chứa xuống bề mặt sản phẩm, trong khi trục sắt ép trục cao su để điều tiết lượng sơn. Ngoài ra, tốc độ của băng tải cũng đóng một vai trò vô cùng quan trọng và phải được xem xét một cách đồng bộ với tốc độ của trục lăn.
-Mối quan hệ giữa tốc độ trục cao su và tốc độ băng tải là yếu tố tiên quyết. Theo như đã được nhấn mạnh, tốc độ của trục cao su và tốc độ của băng tải phải luôn luôn bằng nhau. Đây là một nguyên tắc bất di bất dịch để đảm bảo quá trình lăn sơn diễn ra suôn sẻ và không gây ra các lỗi bề mặt. Nếu tốc độ của trục cao su và băng tải không đồng bộ, sẽ xuất hiện các vấn đề như nhíu sơn, vên sơn, mất sơn ở một số vị trí, hoặc thậm chí là nhăn sơn và kéo sọc. Ví dụ, nếu băng tải di chuyển quá nhanh so với trục cao su, sơn sẽ bị kéo dài ra, tạo thành các vệt sọc dọc trên bề mặt sản phẩm. Việc kiểm chứng điều này có thể thực hiện dễ dàng trên máy UV bằng cách thử nghiệm với tốc độ băng tải và trục cao su khác nhau.
-Tốc độ của trục sắt so với trục cao su ảnh hưởng trực tiếp đến độ dày và độ mịn của màng sơn. Khi tốc độ của trục sắt bằng với tốc độ của trục cao su, độ dày của lớp sơn sẽ đạt mức tối đa. Để giảm độ dày màng sơn, cần giảm tốc độ của trục sắt so với tốc độ của trục cao su. Sự chênh lệch về tốc độ giữa hai trục này càng lớn (trục sắt quay càng chậm hơn so với trục cao su), thì độ mịn của lớp sơn càng cao. Điều này là do sự trượt tương đối giữa hai trục khi chúng quay với tốc độ khác nhau sẽ giúp dàn đều lớp sơn mỏng hơn và mịn hơn.
-Trong quá trình điều chỉnh, bước đầu tiên và quan trọng nhất là phải đảm bảo tốc độ của trục cao su và băng tải là bằng nhau. Sau khi đã thiết lập được sự đồng bộ này, việc điều chỉnh độ dày và độ mịn của lớp sơn sẽ được thực hiện chủ yếu thông qua việc thay đổi tốc độ của trục sắt. Bắt đầu bằng cách ép trục sắt vào trục cao su đến một mức độ nhất định mà mình chấp nhận được về độ dày sơ bộ (chỉnh thô). Sau đó, tiến hành điều chỉnh tốc độ của trục sắt (chỉnh tinh). Thông thường, để đạt được độ mịn cao, tốc độ của trục sắt sẽ được đặt thấp hơn đáng kể so với tốc độ của trục cao su (ví dụ, trục cao su ở tốc độ 10, trục sắt ở tốc độ 2).
-Cần đặc biệt lưu ý không nên để trục sắt đứng im hoàn toàn. Mặc dù việc này có thể tạo ra lớp sơn mỏng và mịn, nhưng nếu trục sắt không quay, nó có thể dễ bị cháy hoặc hư hỏng, đặc biệt nếu không được bơm sơn liên tục. Ngay cả khi trục sắt quay chậm, việc duy trì dòng chảy sơn liên tục là rất quan trọng để tránh tình trạng cháy trục.
-Việc điều khiển tốc độ của các trục lăn thường được thực hiện thông qua bảng điều khiển của máy. Bảng điều khiển này cho phép người vận hành cài đặt các thông số tốc độ một cách chính xác. Ngoài ra, một số máy có thể có các nút điều chỉnh riêng cho tốc độ trục.
-Tuy nhiên, trên thực tế, việc điều chỉnh tốc độ trục lăn không chỉ dựa vào các thông số trên máy mà còn đòi hỏi kinh nghiệm và sự quan sát tỉ mỉ bề mặt sơn. Người vận hành cần theo dõi chất lượng lớp sơn sau mỗi lần điều chỉnh để đưa ra những điều chỉnh phù hợp nhất.
-Sự tương quan với các yếu tố khác: Cần nhớ rằng hiệu quả của việc điều chỉnh tốc độ trục lăn cũng phụ thuộc vào các yếu tố khác như độ nhớt của sơn và độ mềm của trục cao su. Khi trục sắt đã ép hết cỡ, độ nhớt của sơn và độ mềm của trục cao su sẽ trở thành những yếu tố quyết định độ mịn của màng sơn.
-Trong quy trình sơn nhiều lớp, việc kiểm soát tốc độ trục lăn ở mỗi lớp là rất quan trọng để đảm bảo chất lượng lớp phủ cuối cùng. Tốc độ không phù hợp ở các lớp sơn lót có thể ảnh hưởng đến độ bám dính và màu sắc của các lớp sơn phủ sau.
-Liên hệ với các lỗi sơn: Tốc độ trục lăn không được điều chỉnh đúng cách có thể là nguyên nhân gây ra một số lỗi sơn. Ví dụ, tốc độ trục sắt quá nhanh so với trục cao su có thể dẫn đến lớp sơn quá mỏng và không đều màu. Ngược lại, tốc độ trục sắt quá chậm (hoặc đứng im mà không được bơm sơn đủ) có thể gây ra cháy trục. Tốc độ không đồng bộ giữa trục cao su và băng tải sẽ gây ra các lỗi như sọc, nhăn, hoặc mất sơn.
-Tóm lại, tốc độ trục lăn là một yếu tố quan trọng bậc nhất trong vận hành máy sơn UV. Việc nắm vững nguyên tắc điều chỉnh tốc độ của trục cao su (phải đồng bộ với băng tải) và trục sắt (điều chỉnh độ dày và độ mịn thông qua sự chênh lệch tốc độ với trục cao su) là kỹ năng cơ bản mà bất kỳ người vận hành máy sơn UV nào cũng cần phải nắm vững và thực hành thường xuyên để đạt được chất lượng sản phẩm tốt nhất.
- Về lò sấy UV, 
-Theo như nguồn tài liệu, lò sấy UV không có nhiều yếu tố để điều chỉnh như máy lăn trục sơn. Các điều chỉnh chính trên lò sấy UV thường giới hạn ở tốc độ băng tải (dù được nhấn mạnh là thường phải cố định theo tốc độ chuẩn của dây chuyền sản xuất) và độ bật đèn UV. Đèn UV thường có hai nấc công suất chính: 70% và 100%. Việc tăng hoặc giảm công suất sấy được thực hiện bằng cách chọn nấc công suất phù hợp trên các đèn. Một lò sấy UV có thể được trang bị nhiều đèn, và mỗi đèn có thể có hai mức công suất hoạt động, cho phép điều chỉnh tổng cường độ UV tùy theo nhu cầu sấy của từng loại sơn và tốc độ chuyền.
-Một điểm quan trọng được lưu ý là tốc độ băng tải của lò sấy UV thường phải tuân theo tốc độ chuẩn của toàn bộ dây chuyền sản xuất. Việc tự ý điều chỉnh tốc độ băng tải nhanh hơn hoặc chậm hơn so với quy định có thể dẫn đến các vấn đề nghiêm trọng. Nếu băng tải chạy quá nhanh, sơn có thể không được sấy khô hoàn toàn, gây ra các lỗi ở các công đoạn tiếp theo. Ngược lại, nếu băng tải chạy quá chậm, sản phẩm có thể bị quá nhiệt, dẫn đến cháy hoặc hỏng hóc, đồng thời cũng gây tắc nghẽn và gián đoạn cho cả dây chuyền.
-Nội dung ghi âm cũng nhấn mạnh đến ba thành phần cực kỳ quan trọng của lò sấy UV, đó là đèn UV, chóa đèn (bộ phận phản xạ) và bộ làm mát.
-Đèn UV là nguồn phát ra tia cực tím, có vai trò quyết định trong việc làm khô và đóng rắn lớp sơn UV. Đèn thường có hai mức công suất để điều chỉnh cường độ UV.
-Chóa đèn (bộ phận phản xạ), được ví như "chó" của đèn, có chức năng định hướng và tập trung tia UV xuống bề mặt sản phẩm. Một chóa đèn được thiết kế tốt sẽ giúp gom tia UV, đảm bảo năng lượng được chiếu đúng và đủ lên lớp sơn, từ đó nâng cao hiệu quả sấy. Các vấn đề thường gặp với chóa đèn bao gồm sự lệch lạc sau bảo trì, bụi bẩn bám vào làm mờ khả năng phản xạ, dẫn đến cường độ UV không đạt yêu cầu dù đèn vẫn hoạt động bình thường. Trong trường hợp cường độ sấy không đủ do đèn yếu (một tình huống hiếm gặp), một giải pháp tạm thời có thể là hạ thấp vị trí của đèn xuống gần bề mặt sơn hơn để tăng cường độ chiếu xạ. Tuy nhiên, việc này có thể gây ra nguy cơ quá nhiệt và cháy. Ở các ứng dụng đặc biệt, như sấy các vật thể có hình dạng phức tạp, có thể sử dụng nhiều chóa đèn được bố trí xung quanh để đảm bảo tia UV phủ đều bề mặt.
-Bộ làm mát là một hệ thống quan trọng để kiểm soát nhiệt độ bên trong lò sấy UV. Đèn UV tỏa ra lượng nhiệt rất lớn trong quá trình hoạt động. Nếu không có hệ thống làm mát hiệu quả, nhiệt độ cao có thể gây ra nhiều vấn đề. Thứ nhất, nó có thể làm giảm tuổi thọ của đèn UV. Thứ hai, sản phẩm sơn có thể bị quá nóng, dẫn đến cháy, cong vênh, hoặc làm cho lớp sơn trở nên giòn. Đặc biệt đối với các loại sơn bóng có độ phủ dày, việc kiểm soát nhiệt độ bằng hệ thống làm mát là rất quan trọng để tránh hiện tượng giòn hóa và ngả vàng của sơn. Đối với một số loại gỗ đặc biệt như gỗ tràm, nhiệt độ quá cao có thể làm dầu trong gỗ thoát ra, gây bong bóng trên bề mặt sơn. Do đó, việc kiểm tra hoạt động của quạt làm mát là một bước quan trọng khi vận hành và kiểm tra lò sấy UV.
-Bảng điều khiển của lò sấy UV thường có các bộ phận cơ bản như núm hoặc nút điều chỉnh tốc độ băng tải, ampe kế và các nút bật/tắt đèn với các mức công suất khác nhau. Ampe kế là một công cụ quan trọng để theo dõi tình trạng hoạt động của đèn UV. Ampe kế hiển thị dòng điện tiêu thụ của đèn, và một chỉ số bất thường (ví dụ, kim không nhảy hoặc ở vị trí quá thấp so với bình thường) có thể chỉ ra các vấn đề với nguồn điện hoặc bản thân đèn, ngay cả khi đèn vẫn phát sáng. Trong trường hợp này, đèn có thể không phát ra đủ năng lượng UV để sấy khô sơn.
-Quy trình tắt đèn UV cũng cần được thực hiện đúng cách để bảo vệ tuổi thọ của đèn. Khi muốn ngừng sản xuất, người vận hành nên tắt đèn theo từng nấc công suất (ví dụ, từ 100% xuống 70%, sau đó tắt hoàn toàn) và không được ngắt nguồn điện ngay lập tức. Sau khi tắt hết đèn, hệ thống làm mát vẫn cần được duy trì hoạt động để làm nguội dần các bộ phận bên trong lò sấy, đặc biệt là đèn UV. Chỉ khi bộ làm mát đã ngừng hoạt động hoặc nhiệt độ đã giảm xuống mức an toàn thì mới được ngắt nguồn điện hoàn toàn. Việc đột ngột ngắt nguồn điện khi đèn còn nóng có thể gây sốc nhiệt, làm giảm đáng kể tuổi thọ của đèn.
-Cuối cùng, nút tắt khẩn cấp là một tính năng an toàn quan trọng trên lò sấy UV, được sử dụng trong các tình huống bất ngờ như cháy hoặc sự cố nghiêm trọng.
-Tóm lại, lò sấy UV đóng vai trò then chốt trong quy trình sơn UV. Mặc dù không có nhiều yếu tố điều chỉnh phức tạp, việc hiểu rõ chức năng của từng thành phần, tuân thủ đúng quy trình vận hành và bảo trì, đặc biệt là đối với đèn UV, chóa đèn và hệ thống làm mát, là yếu tố quyết định để đảm bảo chất lượng lớp sơn cuối cùng và duy trì hoạt động ổn định của dây chuyền sản xuất.
-
-"Độ che phủ" (
-Dưới đây là các điểm chính về độ che phủ được đề cập trong nguồn:
-•	Sơn UV màu có độ che nền kém hơn sơn PU màu: Mỗi lớp sơn UV màu có khả năng che nền kém hơn mỗi lớp sơn PU. Nguyên nhân là do đặc điểm của sơn UV màu là không thể cán quá dày, vì lớp màu dày sẽ ngăn cản tia UV xuyên qua, làm sơn không khô được.
-•	So sánh định lượng giữa sơn UV màu và sơn PU màu về độ che phủ: 
-o	Trung bình, độ che của một lớp phun PU màu tương đương với 2 đến 3 lần cán UV màu.
-o	Định lượng mỗi lớp cán UV màu là 30 đến 35 g/m².
-o	Để đạt được độ che nền tương đương một lần phun PU, cần khoảng 2 lớp cán UV màu, tương ứng với định mức 60 đến 70 g/m² (1 kg sơn màu UV có thể che phủ khoảng 14 m²).
-o	So với sơn PU, mỗi kg sơn có thể che phủ từ 3 đến 4 m²/kg, cho thấy sơn PU có độ che phủ tốt hơn trên mỗi đơn vị khối lượng.
-•	Độ phủ của sơn UV (khả năng làm phẳng và lấp tim gỗ) tốt hơn sơn PU: Đây là một ưu điểm của sơn UV. Mỗi lớp cán UV cho độ phủ cao hơn mỗi lớp sơn PU. Điều này là do sơn UV khô nhanh, không thấm xuống gỗ/nền, tạo thành một lớp màng bao bọc bên ngoài, giúp làm phẳng bề mặt dễ dàng hơn.
-•	Độ phủ của sơn không màu (sơn tự nhiên): Định lượng sơn không màu là 20-25 g/m² (50 m²/kg sơn), và chỉ với một lần cán, độ phủ đã cao hơn nhiều so với một lần lót PU.
-•	Lưu ý khi sử dụng toàn bộ sơn UV (từ lót đến bóng): Nên chia nhỏ công đoạn cán màu. Cán 5 lần (với 5 trục, mỗi trục cán và sấy riêng) sẽ cho độ cứng và độ bám cao hơn so với cán 2 lần. Bề mặt cũng sẽ đẹp hơn và dễ kiểm soát hơn trong quá trình sản xuất.
-•	Màu sắc cho sơn UV (màu che phủ) khác với PU hoặc NC: Với sơn UV, do độ che phủ kém, việc lên màu phải được xây dựng từ lớp màu đầu tiên đến lớp màu cuối cùng. Màu sắc của sản phẩm cuối cùng phụ thuộc vào tất cả các lớp cán màu, không giống như sơn PU hoặc NC, nơi lớp sơn màu cuối cùng đóng vai trò quyết định màu sắc. Bất kỳ sai sót nào về màu sắc hoặc định lượng ở bất kỳ lớp cán màu UV nào đều có thể dẫn đến sai màu ở công đoạn hoàn thiện. Lớp bóng màu chỉ có vai trò tạo độ bóng và chống trầy xước.
-sơn UV màu có độ che phủ kém hơn sơn PU màu và cần nhiều lớp hơn để đạt được độ che tương đương. Tuy nhiên, sơn UV lại có ưu điểm về độ phủ, giúp làm phẳng bề mặt gỗ tốt hơn. Quy trình cán màu UV cần được giám sát chặt chẽ ở từng bước để đảm bảo màu sắc cuối cùng đạt yêu cầu.
-sơn UV màu.
-Sơn UV màu là loại sơn màu sử dụng công nghệ UV để làm khô. Điểm đặc trưng của sơn UV màu là khả năng che phủ nền kém hơn so với sơn PU màu.
-So sánh với sơn PU màu về độ che phủ và định lượng:
-•	Mỗi lớp sơn UV màu có khả năng che nền kém hơn mỗi lớp sơn PU màu. Điều này là do sơn UV màu không thể cán quá dày, vì lớp màu dày sẽ ngăn tia UV xuyên qua, làm sơn không khô được.
-•	Trung bình, độ che của một lớp phun PU màu tương đương với 2 đến 3 lần cán UV màu.
-•	Định lượng mỗi lớp cán UV màu là 30 đến 35 g/m². Để đạt được độ che nền tương đương một lần phun PU, cần khoảng 2 lớp cán UV màu, với định mức 60 đến 70 g/m² (tức là 1 kg sơn màu UV có thể che phủ khoảng 14 m²).
-•	So với sơn PU, mỗi kg sơn có thể che phủ từ 3 đến 4 m²/kg, cho thấy sơn PU có độ che phủ tốt hơn trên mỗi đơn vị khối lượng.
-Độ phủ (khả năng làm phẳng mặt gỗ) của sơn UV màu:
-•	Sơn UV có ưu điểm về độ phủ cao hơn so với sơn PU. Mỗi lớp cán UV cho độ phủ cao hơn mỗi lớp sơn PU. Nguyên nhân là do sơn UV khô nhanh, không thấm xuống gỗ/nền, tạo thành một lớp màng bao bọc bên ngoài, giúp làm phẳng bề mặt dễ dàng hơn.
-Quy trình lên màu với sơn UV màu:
-•	Việc lên màu với sơn UV khác biệt so với sơn PU hoặc NC. Do độ che phủ kém, màu sắc của sản phẩm cuối cùng được xây dựng từ tất cả các lớp cán màu, chứ không phụ thuộc vào lớp sơn màu cuối cùng như sơn PU hoặc NC.
-•	Bất kỳ sai sót nào về màu sắc hoặc định lượng ở bất kỳ lớp cán màu UV nào đều có thể dẫn đến sai màu ở công đoạn hoàn thiện.
-•	Lớp bóng màu UV chỉ đóng vai trò tạo độ bóng và khả năng chống trầy xước cho màng sơn. Do đó, việc cán màu UV cần được giám sát chặt chẽ ở từng bước.
-Độ bám của sơn UV màu:
-•	Độ bám của sơn UV yếu hơn nhiều so với các loại sơn khác. Điều này là do sơn UV khô tức thì sau khi cán và chiếu đèn, khiến sơn không thấm rút xuống ghim gỗ nhiều.
-•	Nếu lớp sơn UV màu quá dày hoặc đèn UV quá yếu, tia UV không thể chiếu xuyên qua hết lớp sơn, dẫn đến lớp sơn phía dưới không khô và gây ra hiện tượng tróc sơn.
-•	Đối với nền gỗ mềm, việc tác động lực mạnh sau khi dán băng keo có thể làm biến dạng bề mặt gỗ, khiến chân sơn bị bật lên và kết quả kiểm tra độ bám kém.
-•	Trong trường hợp độ bám kém, cần xả nhám bề mặt và phun lót PU.
-•	Đối với gỗ có nhiều dầu, có thể pha thêm phụ gia PG1608 vào sơn UV để tăng độ bám.
-Lưu ý khi sử dụng sơn UV màu tại máy cán:
-•	Đối với các loại sơn nhanh khô (sơn bóng mờ) và sơn màu, không nên đổ hết thùng 20kg vào máy cùng lúc. Nên chia nhỏ lượng sơn (7-10kg) để tránh sơn bị đặc, gây sai màu, sai độ bóng và ảnh hưởng đến độ bám.
-•	Khi sơn bị đặc, có thể dùng dung môi 1007 hoặc dung môi PU (lót) để pha loãng.
-Pha màu cho sơn UV:
-•	Tương tự như sơn dung môi, có thể sử dụng các loại màu của hệ sơn dung môi để pha màu cho sơn UV.
-•	Để pha màu trong thấy nền, sử dụng BTUV 2008 sealer hoặc BTUV 2810 Sealer (cho độ trong và sáng nền cao).
-•	Để pha màu che phủ, sử dụng BTUV 2222 white sealer.
-•	Có thể pha màu với sơn 2011 rồi pha loãng làm màu lau, hoặc sử dụng màu hệ nước pha với BTUV 279H primer để làm màu lau.
-•	Lưu ý quan trọng khi pha màu: 
-o	Không pha với màu hệ dầu.
-o	Tổng lượng màu trong công thức không vượt quá 12% khối lượng.
-o	Màu đen và màu trắng phải dùng đúng hệ UV.
-o	Khi pha màu với các hóa chất/sơn UV khác với các loại được đề cập, cần tham khảo ý kiến của người có chuyên môn.
-Sử dụng UV100:
-•	Trong trường hợp máy sấy UV không điều chỉnh được cường độ, dẫn đến màng sơn bị giòn hoặc độ liên kết giữa các lớp lót yếu, có thể pha UV100 vào với tỉ lệ 2% đến 5% để giảm độ giòn. Tuy nhiên, cho quá nhiều có thể gây tróc sơn.
-•	Khi lớp lót quá cứng khiến lớp bóng hoặc lớp lót tiếp theo không bám, có thể pha UV100 (2%-5%) vào lót/bóng để tăng độ bám và giảm tách lớp. Lưu ý rằng việc pha UV100 vào bóng sẽ làm tăng độ bóng.
-Tóm lại, sơn UV màu có những đặc điểm và quy trình sử dụng riêng biệt so với các loại sơn khác, đặc biệt là về độ che phủ, cách lên màu và độ bám. Việc hiểu rõ những đặc điểm này là rất quan trọng để đạt được chất lượng sản phẩm mong muốn.
-
-Dựa trên các nguồn và lịch sử trò chuyện của chúng ta, chúng ta sẽ thảo luận về độ bám sơn UV.
-Độ bám của sơn UV 
-thường yếu hơn nhiều so với các loại sơn khác. Nguyên nhân chính là do đặc điểm của sơn UV là khô tức thì sau khi cán và chiếu đèn UV, dẫn đến việc sơn không thấm sâu vào các thớ gỗ (ghim gỗ) để tạo chân bám vững chắc.
-Các yếu tố ảnh hưởng đến độ bám của sơn UV:
-•	Độ khô của sơn là yếu tố then chốt. 
-o	Với sơn UV màu, nếu lớp sơn quá dày, hoặc cường độ đèn UV quá yếu, tia UV có thể không xuyên qua hết lớp sơn màu. Điều này khiến lớp sơn phía dưới không được chiếu đèn và không khô hoàn toàn, dẫn đến hiện tượng tróc sơn.
-•	Đặc điểm của nền gỗ. 
-o	Đối với các loại gỗ mềm (ví dụ: tràm, cao su), sau khi kẻ rô và dán băng keo, nếu dùng vật cứng hoặc móng tay tác động mạnh lên bề mặt có thể làm biến dạng bề mặt gỗ (móp xuống). Điều này khiến chân sơn bị bật lên, dẫn đến kết quả kiểm tra độ bám kém.
-o	Đối với các loại gỗ có nhiều dầu, một số loại sơn UV (ví dụ: 2011HP) có thể không hiệu quả trong việc đảm bảo độ bám.
-•	Độ cứng giữa các lớp sơn. 
-o	Trong trường hợp lớp sơn lót quá cứng, lớp bóng hoặc lớp lót tiếp theo có thể không bám dính tốt, gây ra hiện tượng tách lớp.
-Các biện pháp cải thiện độ bám của sơn UV 
-•	Đối với trường hợp độ bám kém: Cần xả nhám sạt xuống gần phẳng nền rồi phun lót PU.
-•	Đối với gỗ có nhiều dầu: Có thể sử dụng loại sơn UV hiện tại pha với phụ gia PG1608 theo tỉ lệ từ 5% đến 7% (500-700g phụ gia cho 10kg sơn). Lưu ý rằng dung dịch đã pha chỉ nên sử dụng trong vòng 5-6 giờ.
-•	Trong trường hợp lớp sơn lót quá cứng gây tách lớp: Có thể sử dụng UV 100 pha vào lớp lót hoặc lớp bóng với tỉ lệ 2% đến 5% để tạo độ bám và giảm tách lớp. Lưu ý rằng việc pha UV 100 vào lớp bóng sẽ làm tăng độ bóng.
-•	Khi sử dụng toàn bộ sơn UV (từ lót đến bóng), việc chia nhỏ công đoạn cán màu (cán 5 lần thay vì 2 lần, mỗi lần cán và sấy riêng) có thể giúp tăng độ cứng và độ bám của màng sơn.
-
-Dựa trên các nguồn và lịch sử trò chuyện của chúng ta, chúng ta sẽ thảo luận về pha màu sơn UV.
-Nguyên tắc chung:
-•	Việc pha màu cho sơn UV tương tự như pha màu cho sơn dung môi. Do đó, có thể sử dụng các loại màu của hệ sơn dung môi để pha màu cho sơn UV.
-Các loại sơn UV và mục đích pha màu:
-•	Pha màu trong, thấy nền gỗ: Sử dụng sơn BTUV 2008 sealer.
-•	Pha màu trong, sáng nền, độ trong cao: Sử dụng BTUV 2810 Sealer.
-•	Pha màu che phủ: Sử dụng sơn BTUV 2222 white sealer.
-Pha màu để làm màu lau hoặc bã bột màu:
-•	Có thể pha màu với sơn 2008, sau đó pha loãng để tạo thành màu lau hoặc bã bột màu.
-Lưu ý quan trọng khi pha màu sơn UV:
-•	Không được pha với màu hệ dầu (PE)
-•	Tổng lượng màu trong công thức pha không được vượt quá 12% khối lượng.
-•	Riêng đối với màu đen và màu trắng, bắt buộc phải sử dụng đúng hệ màu UV.Các loại lót UV trắng và lót UV đen , tinh màu đen PA100UV
-•	Khi muốn pha màu với các loại hóa chất hoặc sơn UV khác với những loại đã được đề cập, cần phải tham khảo ý kiến của người có chuyên môn ( Minh : 0906977705) 
-Liên quan đến những thảo luận trước đây của chúng ta về sơn UV màu, việc pha màu là một bước quan trọng để tạo ra lớp màu mong muốn. Do độ che phủ của sơn UV màu kém hơn so với sơn PU hoặc NC, màu sắc cuối cùng của sản phẩm được xây dựng từ tất cả các lớp cán màu. Vì vậy, việc pha màu chính xác ở từng công đoạn là rất quan trọng, và bất kỳ sai sót nào trong quá trình pha màu đều có thể ảnh hưởng đến màu sắc ở công đoạn hoàn thiện.
-Ngoài ra, nguồn cũng đề cập đến việc sử dụng stain màu UV, là dạng màu UV pha loãng với cường độ màu rất cao, dùng để cán trên nền gỗ tự nhiên làm nổi bật vân gỗ. Stain màu UV thường được pha với BTUV 2810 sealer hoặc 2008 sealer theo tỷ lệ 10 đến 20% tinh màu, sau đó thêm 20 đến 30% dung môi 1007 (hoặc dung môi PU bóng). Lưu ý rằng việc cán stain màu cần sử dụng trục mềm hoặc trục xốp để đạt hiệu quả cao và cần kiểm tra thường xuyên với mẫu công đoạn để điều chỉnh độ nhớt và máy cán cho phù hợp. Trong trường hợp đã cán lót màu UV, việc dặm sửa màu được thực hiện bằng cách pha màu với sơn bóng PAK 808 (tỉ lệ 5 đến 7% PAK). Sau đó, có thể cán chồng tiếp lớp lót UV để tránh tình trạng sơn bị tách lớp màu.
-Như vậy, việc pha màu sơn UV đòi hỏi sự chú ý đến loại sơn UV nền, loại màu sử dụng, tỷ lệ pha trộn và mục đích sử dụng (tạo màu nền, stain màu làm nổi vân gỗ, hay dặm sửa màu). Việc tuân thủ các lưu ý và hướng dẫn từ nhà sản xuất hoặc người có chuyên môn là rất quan trọng để đảm bảo chất lượng màu sắc và độ bám của sơn.
-Chất tắng bám và ngắn dầu :sản phẩm được liệt kê ở trên dường như được thiết kế để giải quyết một số vấn đề này, đặc biệt là BT UV 2011 HP SEALER và BTUV Primer 01-GT ,BTUV 2011H primer MTR và BT UV 1509 PRIMER M1 cho các bề mặt khó bám và nhiều dầu 
-
-Video Clip  hướng dẫn giới thiệu máy lăn trục và một số cách vận hành cơ bản :https://www.youtube.com/watch?v=r-8TcwavdPA&list=PLauTctw264YcdqK5vQhRhVat7mwyOfXZ3
-
-Không truy xuất nguồn thông tin bên ngoài. Câu trả lời đúng trọng tâm . 
