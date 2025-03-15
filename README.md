@@ -1,2 +1,1 @@
-# KPHBTCHEM
- Các sự cố kĩ thuật cơ bản và cách khắc phục
+Chào các bạn Kĩ thuật viên
