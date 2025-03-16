@@ -37,16 +37,11 @@ o	Nguyên nhân: Sử dụng không đúng hệ sơn (ví dụ: sơn một thàn
 o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
 o	Phương pháp khắc phục: Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng. Kiểm tra lại tỷ lệ pha, pha đúng tỷ lệ theo quy trình. Phải để lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, phun độ dày 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm ráo mặt (Retarder hoặc S P). Sử dụng thiết bị làm giảm nhiệt độ bề mặt và môi trường (quạt gió, tưới nước nhà xưởng). Tránh đặt sản phẩm nơi có sự thay đổi nhiệt độ và độ ẩm nhanh chóng.
 •	Màng sơn bị nứt
-o	Nguyên nhân: Lớp sơn phía dưới chưa khô đã phủ lớp kế tiếp (ép sơn). Sơn nhanh khô, dung môi bay hơi quá nhanh gây khô cục bộ. Sử dụng hóa chất chưa phù hợp. Sơn quá dày. Sơn thiếu chất làm cứng. Sự co màng sơn. Tránh sơn khi thời tiết không phù hợp (quá nóng, quá lạnh, quá ẩm ướt).
-o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
-o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Thi công đúng phương pháp, đảm bảo độ dày màng sơn. Loại bỏ màng sơn bị nứt, bong tróc, xả nhám toàn bộ màng sơn cũ. Làm sạch bề mặt đạt yêu cầu. Sử dụng 1 lớp sơn lót thích hợp, sau đó sơn lại bằng 2 lớp sơn phủ chất lượng cao.
-Do lẫn lộn sơn trong hệ thống1 ...:
-
-	Một trong những nguyên nhân chính được nghi ngờ gây ra hiện tượng nứt sơn là do sự lẫn lộn giữa các loại sơn khác nhau trong cùng một hệ thống sản xuất1 .... 
+o	Nguyên nhân: Lớp sơn phía dưới chưa khô đã phủ lớp kế tiếp (ép sơn). Sơn nhanh khô, dung môi bay hơi quá nhanh .  Sơn quá dày. Sơn thiếu chất làm cứng. Tránh sơn khi thời tiết quá nóng.do sự lẫn lộn giữa các loại sơn khác nhau trong cùng một hệ thống sản xuất1 .... 
 Ngoài ra, còn có trường hợp một số đơn vị sử dụng lại thùng của sơn này để pha sơn khác 
-o	Mặc dù không trực tiếp chỉ ra là nguyên nhân gây nứt, nhưng việc sử dụng dung môi nhanh khô được thảo luận liên quan đến các hiện tượng bề mặt sơn bất thường khác như bị bọt và bị phồng8 .
-o	Theo giải thích, dung môi nhanh khô có thể làm cho bề mặt sơn khô quá nhanh, trong khi bên trong vẫn còn ướt. Điều này có thể tạo ra ứng suất bên trong lớp sơn8 .
-Do quy trình sơn lớp Glaze và lớp lót không phù hợp1Một trường hợp sơn bị xấu đi sau khi sơn một thời gian ngắn (50 phút) được mô tả là có thể liên quan đến việc phun lớp lót khi lớp  glaze (có dung môi) vẫn còn ướt.Dung môi trong lớp Glaze và sơn NC (thường dùng cho lớp lót) có thể không hòa tan với nhau, dẫn đến việc bề mặt sơn láng lúc đầu nhưng sau đó nhăn lại, bị xước nhám14 .Nguyên tắc được đưa ra là không được để lớp clay qua đêm và thời gian chờ giữa các lớp sơn (clay và lót) cần được kiểm soát (thường 1 tiếng rưỡi đến 2 tiếng).. Việc phun lớp lót khi dung môi glaze còn ướt có thể gây ra các vấn đề về độ bám và bề mặt sơn, tiềm ẩn nguy cơ nứt về sau
+o	Biện pháp xử lý nhanh: cha nhám lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
+o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn ( thời gian , Công đoạn ). đảm bảo độ dày màng sơn. Loại bỏ màng sơn bị nứt, bong tróc, xả nhám toàn bộ màng sơn cũ. Làm sạch bề mặt đạt yêu cầu. Sử dụng 1 lớp sơn lót thích hợp, sau đó sơn lại bằng 2 lớp sơn phủ chất lượng cao.Do lẫn lộn sơn trong hệ thống1.Một trong những nguyên nhân chính được nghi ngờ gây ra hiện tượng nứt sơn là 
+o	Mặc dù không trực tiếp chỉ ra là nguyên nhân gây nứt, nhưng việc sử dụng dung môi nhanh khô có thể làm cho bề mặt sơn khô quá nhanh, trong khi bên trong vẫn còn ướt. Điều này có thể tạo ra ứng suất bên trong lớp sơn8 .
 
 •	Độ bóng không đều (sai độ bóng sơn PU)
 o	Nguyên nhân: Hỗn hợp pha chưa khuấy đều trước khi phun. Dung môi sử dụng chưa phù hợp. Lớp sơn phía dưới chưa khô hoàn toàn. Độ dày sơn trên sản phẩm không đều. Bề mặt sản phẩm xử lý chưa đạt. Phòng phun khô kém thoáng khí, chất khí dung môi bốc hơi ô nhiễm không khí, bạch hóa màng phủ.
